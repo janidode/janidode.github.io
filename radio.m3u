@@ -20,12 +20,14 @@ http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
 http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8
 #EXTINF:-1,IN TV 
 http://80.90.86.195:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,Premium Channel
+http://wedding-channel.tv/stream.m3u8?1
 #EXTINF:0,ORA NEWS
-https://tv.oranews.tv/live/oranews/index.m3u8
+http://145.239.2.153:8081/oranews/live/chunks.m3u8
 #EXTINF:0,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:0,REPORT TV
-https://sh-stream.duckdns.org/hls/stream.m3u8
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #EXTINF:0,Hit Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:0,1 Music Channel
