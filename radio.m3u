@@ -110,18 +110,8 @@ https://deluxe.hoerradar.de/deluxe-top40-mp3-hq
 https://deluxe.hoerradar.de/kanalkavka-mp3-hq
 #EXTINF:0,DELUXE WAGNER CHEFSESSEL
 https://deluxe.hoerradar.de/deluxe-chefsessel-mp3-hq
-#EXTINF:0,Divan Radio
-http://play.divanradio.com:8000/stream
-#EXTINF:0,Divan Radio Electronic
-http://play.divanradio.com:8000/dupci
-#EXTINF:0,Divan Radio Jazz
-http://play.divanradio.com:8000/jazz
-#EXTINF:0,Divan Radio Retro
-http://play.divanradio.com:8000/retro
 #EXTINF:0,Tirana Jazz Radio
 http://live.tiranajazzradio.com:8000/stream
-#EXTINF:0,KISS FM
-http://149.202.220.47:8888/KISSFM
 #EXTINF:0,MCN Radio
 http://149.202.220.47:8888/mcnradio.pls
 #EXTINF:0,Prive Radio
@@ -132,8 +122,6 @@ http://149.202.220.47:8888/live.m3u
 http://93.190.141.15:8206/;stream.mp3?_=1
 #EXTINF:0,Alpo Radio
 http://62.210.24.124:8379/;stream.mp3
-#EXTINF:0,AdriaNet Radio
-http://37.26.83.90:8282/stream
 #EXTINF:0,Radio Kontakt
 http://84.20.83.24:88/broadwavehigh.mp3
 #EXTINF:0,Radio Rash
