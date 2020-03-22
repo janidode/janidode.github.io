@@ -20,26 +20,27 @@ http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
 http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8
 #EXTINF:-1,IN TV 
 http://80.90.86.195:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,Premium Channel
-http://wedding-channel.tv/stream.m3u8?1
 #EXTINF:0,ORA NEWS
-http://145.239.2.153:8081/oranews/live/chunks.m3u8
+https://tv.oranews.tv/live/oranews/index.m3u8
+#EXTINF:0,ORA
+https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,Vizion+
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:0,REPORT TV
 http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,City TV
+https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cq4ElidNsLSgyLwvGNB-uSywPHUvZbEua7piXZXc6zvZBlqDx02Zm5_TShi36YM1Q9SN1OUXN_flhI_ig4XrKMTXUoFg9pC-lIOG6rpbEA_EyIPFeOkV88HkLdfKHGKazO-s6DufZFkpZ8uOSbA-AbZ8ovtSp_PmeZP69D9STgSCgneIWFqNjBs3kXTl2v5OTRf4g0J2wRSy-kkaXjwHsUKmB9cndNsv19BedSLvxkv3qCCUfKlPfxo6S6J_nGVoYDP2caeHmuqTJXzm3tMj_9tsdAVGsfXGxpqIT4rQqasZ6WinvADWR8vEHtf7sdv3XaDwM68vm52Vsr7ipeNutEtTzjh_HgLuT8lEtr3NP5HzwKHOmFTYlXppYuNPFZ1XsckTqlF1EHMYsD-Boz-x2HwXQzklHSguF7C7YFDoz1kjCHtjj2eSI6Dm2WoNTSAUCqGJHtqz-kHQyEzgemT467WIhXnhCq4PgWN8qBwZO_dC3fITZCxzYaH-BtjZj2byNksER6dl0iELsORplWYCJo9SkTuA783zK2lkVLsrTiQ13hmtfsRgYif3wPYI_NlduNXEOq-RQ_P8yTJUOtH5_3btZR-F1dG08oCBtq07dxfJYzf0zbxG_fRuSMUFxRVnI76fD_mupvejdtEnNJhFgy3iczsMKQcC7-14mkn8gT_2yUedeJka7EwzLF8BI0F3dB9hfHwcZSpUP-U9g868uhxj6FKra_mqW05ylLyN4THuEhClsh_cGbmh3Y2wAvYiufc9GgwXG0_-qApJuzI3vAA.m3u8
 #EXTINF:0,Hit Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:0,1 Music Channel
 http://1mstream.digicable.hu:80/stream/1music.m3u8
 #EXTINF:0,UTV
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
+https://edge71.rcs-rds.ro/digi24edge/utvhq.stream/chunklist_w1579819790.m3u8?quality=hq
 #EXTINF:0,DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0,RADIO GALATSI
 http://a300.no-ip.biz:45000/
-#EXTINF:0,Mi Amigos
-https://kepler.shoutca.st/tunein/alkay.pls
 #EXTINF:0,Top Albania Radio
 http://93.190.141.15:8452/;
 #EXTINF:0,Club FM 100.4 FM
@@ -50,6 +51,8 @@ http://ice31.securenetsystems.net:80/AL09
 http://95.107.173.168:6500/;
 #EXTINF:0,Radio One
 http://93.190.141.15:8360/stream.ogg
+#EXTINF:0,DanceFM 89.5
+http://edge126.rdsnet.ro:84/profm/dancefm.mp3
 #EXTINF:0,Radio Tirana 1
 http://149.202.220.47:8888/radiotirana1
 #EXTINF:0,Radio Tirana 2
@@ -60,10 +63,18 @@ http://149.202.220.47:8888/radiotirana3
 http://149.202.220.47:8888/rti
 #EXTINF:0,Radio Tirana Klasik
 http://149.202.220.47:8888/radiotiranaklasik1
+#EXTINF:0,Radio Tirana Jazz
+http://149.202.220.47:8888/radiotiranajazz
+#EXTINF:0,Maretimo Funky Radio
+http://stream.maretimo-funky-radio.com/funkyradio.mp3
+#EXTINF:0,Maretimo House Radio
+http://radio.maretimo-records.com/house.mp3
+#EXTINF:0,Maretimo Lounge Radio
+http://radio.maretimo-records.com/lounge.mp3
 #EXTINF:0,Smooth Grooving
 http://64.95.243.43:8020/stream.ogg
-#EXTINF:0,Maretimo
-http://radio.maretimo-records.com/lounge.mp3
+#EXTINF:0,Rai Radio Live
+https://radiolive1-lh.akamaihd.net/i/radiolive1_1@586838/index_200_a-p.m3u8
 #EXTINF:0,DELUXE RADIO
 https://deluxe.hoerradar.de/deluxe-music-mp3-hq
 #EXTINF:0,DELUXE EASY
@@ -77,7 +88,7 @@ http://46.245.183.120:8000/0002
 #EXTINF:0,DISCO DELUXE
 https://deluxe.hoerradar.de/discodeluxe-mp3-hq
 #EXTINF:0,The Lounge Channel
-http://streaming.radionomy.com/The-Lounge-Channel?lang=en-US%2cen%3bq%3d0.5
+https://www.theloungechannel.com/listen.m3u
 #EXTINF:0,RTL 102.5 Classic
 http://shoutcast.rtl.it:3020/stream/1/
 #EXTINF:0,RTL 102.5
@@ -112,12 +123,6 @@ https://deluxe.hoerradar.de/kanalkavka-mp3-hq
 https://deluxe.hoerradar.de/deluxe-chefsessel-mp3-hq
 #EXTINF:0,Tirana Jazz Radio
 http://live.tiranajazzradio.com:8000/stream
-#EXTINF:0,MCN Radio
-http://149.202.220.47:8888/mcnradio.pls
-#EXTINF:0,Prive Radio
-http://ample-16.radiojar.com/an3p3e2r2heuv.mp3?_=1&rj-token=AAABawLSDIRX135h8cMyjI4DMv4mdVhdG1uepKymCj3MgSygPLLZ7Q&rj-ttl=5
-#EXTINF:0,Cmendina Radio
-http://149.202.220.47:8888/live.m3u
 #EXTINF:0,Radio Shqip
 http://93.190.141.15:8206/;stream.mp3?_=1
 #EXTINF:0,Alpo Radio
@@ -126,3 +131,11 @@ http://62.210.24.124:8379/;stream.mp3
 http://84.20.83.24:88/broadwavehigh.mp3
 #EXTINF:0,Radio Rash
 http://5.196.97.98:8000/;stream.mp3
+#EXTINF:0,Radio EuroStar
+http://radioeurostar.al:9000/
+#EXTINF:0,Divan Radio
+http://play.divanradio.com:8000/stream/
+#EXTINF:0,Divan Radio - Stardust
+http://play.divanradio.com:8000/andromeda
+#EXTINF:0,Divan Radio - Retro
+http://play.divanradio.com:8000/retro
