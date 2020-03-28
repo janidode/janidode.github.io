@@ -28,7 +28,7 @@ https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,Vizion+
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:0,REPORT TV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Premium Channel
 http://premium-channel.tv/stream.m3u8?1
 #EXTINF:0,City TV
