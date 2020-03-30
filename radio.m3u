@@ -108,7 +108,9 @@ http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.n
 #EXTINF:0,City Radio 88.0 FM
 http://93.190.141.15:7368/
 #EXTINF:0,Rix FM
-http://fm01-icecast.mtg-r.net/fm01_mp3?platform=web
+http://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553021
+#EXTINF:0,Rix FM Fresh
+http://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553144
 #EXTINF:0,Radiotravel 104.6 Mhz
 http://93.190.141.15:7253/live
 #EXTINF:0,MC2
