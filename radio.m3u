@@ -36,6 +36,8 @@ https://edge06eu.ekranet.com/faxnews/index.m3u8
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,A2 CNN
 https://www.youtube.com/channel/UCO-B2zbHROkxpMLjwQX6C8A/live
+#EXTINF:0,Shijak TV
+https://www.youtube.com/channel/UCKbUSEVfpE2P7H6TyV3KVVw/live
 #EXTINF:0,Premium Channel
 http://premium-channel.tv/stream.m3u8?1
 #EXTINF:0,Zjarr TV
