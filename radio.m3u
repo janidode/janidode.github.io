@@ -36,6 +36,8 @@ https://edge06eu.ekranet.com/faxnews/index.m3u8
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Premium Channel
 http://premium-channel.tv/stream.m3u8?1
+#EXTINF:0,Zjarr TV
+https://edge06eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:0,Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:0,1 Music Channel
