@@ -42,8 +42,6 @@ https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cq4ElidNsLSgyLwvGNB-uSywPHU
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:0,1 Music Channel
 https://1music.hu/1music.m3u8
-#EXTINF:0,UTV
-ttps://edge214.rcs-rds.ro/V4-4316328-bd7d4fb05a0a3206baf47f46929fde62-1468991324-0-1585648870-411-utv/utv/utv-abr.m3u8
 #EXTINF:0,DeeJay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0,RADIO GALATSI
