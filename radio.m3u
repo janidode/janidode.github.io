@@ -24,8 +24,6 @@ https://edge06eu.ekranet.com/rtshfemije_240p/index.m3u8
 https://edge06eu.ekranet.com/rtshfilm_240p/index.m3u8
 #EXTINF:-1,RTSH Kuvendi
 https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
-#EXTINF:-1,IN TV 
-http://80.90.86.195:1935/live/livestream/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
@@ -34,8 +32,6 @@ https://tv.oranews.tv/live/ora/index.m3u8
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:0,FAX News
 https://edge06eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:0,Vizion+
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:0,REPORT TV
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Premium Channel
