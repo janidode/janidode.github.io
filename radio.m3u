@@ -43,11 +43,11 @@ http://premium-channel.tv/stream.m3u8?1
 #EXTINF:0,City TV
 https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cq4ElidNsLSgyLwvGNB-uSywPHUvZbEua7piXZXc6zvZBlqDx02Zm5_TShi36YM1Q9SN1OUXN_flhI_ig4XrKMTXUoFg9pC-lIOG6rpbEA_EyIPFeOkV88HkLdfKHGKazO-s6DufZFkpZ8uOSbA-AbZ8ovtSp_PmeZP69D9STgSCgneIWFqNjBs3kXTl2v5OTRf4g0J2wRSy-kkaXjwHsUKmB9cndNsv19BedSLvxkv3qCCUfKlPfxo6S6J_nGVoYDP2caeHmuqTJXzm3tMj_9tsdAVGsfXGxpqIT4rQqasZ6WinvADWR8vEHtf7sdv3XaDwM68vm52Vsr7ipeNutEtTzjh_HgLuT8lEtr3NP5HzwKHOmFTYlXppYuNPFZ1XsckTqlF1EHMYsD-Boz-x2HwXQzklHSguF7C7YFDoz1kjCHtjj2eSI6Dm2WoNTSAUCqGJHtqz-kHQyEzgemT467WIhXnhCq4PgWN8qBwZO_dC3fITZCxzYaH-BtjZj2byNksER6dl0iELsORplWYCJo9SkTuA783zK2lkVLsrTiQ13hmtfsRgYif3wPYI_NlduNXEOq-RQ_P8yTJUOtH5_3btZR-F1dG08oCBtq07dxfJYzf0zbxG_fRuSMUFxRVnI76fD_mupvejdtEnNJhFgy3iczsMKQcC7-14mkn8gT_2yUedeJka7EwzLF8BI0F3dB9hfHwcZSpUP-U9g868uhxj6FKra_mqW05ylLyN4THuEhClsh_cGbmh3Y2wAvYiufc9GgwXG0_-qApJuzI3vAA.m3u8
 #EXTINF:0,Hit Music Channel
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:0,1 Music Channel
-http://1mstream.digicable.hu:80/stream/1music.m3u8
+https://1music.hu/1music.m3u8
 #EXTINF:0,UTV
-https://edge71.rcs-rds.ro/digi24edge/utvhq.stream/chunklist_w1579819790.m3u8?quality=hq
+ttps://edge214.rcs-rds.ro/V4-4316328-bd7d4fb05a0a3206baf47f46929fde62-1468991324-0-1585648870-411-utv/utv/utv-abr.m3u8
 #EXTINF:0,DeeJay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0,RADIO GALATSI
