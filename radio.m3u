@@ -25,6 +25,9 @@ https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
 https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:0,FAX News
+https://edge06eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:0,Vizion+
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:0,REPORT TV
