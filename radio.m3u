@@ -158,11 +158,3 @@ http://62.210.24.124:8379/;stream.mp3
 http://84.20.83.24:88/broadwavehigh.mp3
 #EXTINF:0,Radio Rash
 http://5.196.97.98:8000/;stream.mp3
-#EXTINF:0,Radio EuroStar
-http://radioeurostar.al:9000/
-#EXTINF:0,Divan Radio
-http://play.divanradio.com:8000/stream/
-#EXTINF:0,Divan Radio - Stardust
-http://play.divanradio.com:8000/andromeda
-#EXTINF:0,Divan Radio - Retro
-http://play.divanradio.com:8000/retro
