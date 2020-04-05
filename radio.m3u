@@ -122,6 +122,8 @@ https://rtl-radio4-stream.thron.com/live/radio4/radio4/chunklist.m3u8
 http://wma06.fluidstream.net:4610/
 #EXTINF:0,Alsion Radio
 http://109.169.26.216:8018
+#EXTINF:0,MCN Radio
+http://149.202.220.47:8888/mcnradio.m3u
 #EXTINF:0,105 Miami
 http://titoli.unitedradio.it/105Miami.mp3
 #EXTINF:0,TOP GOLD
