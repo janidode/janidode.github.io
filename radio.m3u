@@ -31,13 +31,15 @@ https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:0,TOP NEWS
-https://stream-06.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irR8fUWrmVB3dSN2cBXRtOX0)/dm/3/x6inuzo/s/live-1.m3u8
+https://stream-05.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irVIS5pYImBv4jEJkkt5C90s)/dm/3/x6inuzo/s/live-2.m3u8
 #EXTINF:0,ABC NEWS
 https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:0,FAX News
 https://edge06eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:0,REPORT TV
 https://sh-stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0,TEMA TV
+http://edge01us.ekranet.com/tematv_360p/index.m3u8?e=5148f5014fafe522beef79ecf7ccb2df&c=tematv&medium=websocket
 #EXTINF:0,A2 CNN
 https://www.youtube.com/watch?v=k3bgFQTGMw4
 #EXTINF:0,EuroNews
