@@ -39,7 +39,7 @@ https://edge06eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:0,REPORT TV
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,TEMA TV
-http://edge01us.ekranet.com/tematv_360p/index.m3u8?e=5148f5014fafe522beef79ecf7ccb2df&c=tematv&medium=websocket
+https://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,A2 CNN
 https://www.youtube.com/watch?v=k3bgFQTGMw4
 #EXTINF:0,EuroNews
