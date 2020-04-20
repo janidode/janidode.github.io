@@ -40,10 +40,12 @@ https://edge06eu.ekranet.com/faxnews/index.m3u8
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,TEMA TV
 https://edge01eu.ekranet.com/tematv_720p/index.m3u8
+#EXTINF:0,SYRI TV
+https://tv.syri.net/syrilive/webtv/chunks.m3u8
 #EXTINF:0,A2 CNN
-https://www.youtube.com/watch?v=UUojJtsQRu0
+https://www.youtube.com/watch?v=hiNeB9NYRGE
 #EXTINF:0,EuroNews
-https://www.youtube.com/watch?v=o5NyQQgzKEs
+https://www.youtube.com/watch?v=_wQuCfi0MF4
 #EXTINF:0,Premium Channel
 http://premium-channel.tv/stream.m3u8?1
 #EXTINF:0,Zjarr TV
