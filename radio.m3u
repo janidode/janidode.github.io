@@ -31,7 +31,7 @@ https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:0,TOP NEWS
-https://stream-07.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irUpSgM396oAQzvhDAh74UyI)/dm/3/x6inuzo/s/live-2.m3u8
+https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irQxERy2tlCNbXuhYvXCtuU4)/dm/3/x6inuzo/s/live-2.m3u8
 #EXTINF:0,ABC NEWS
 https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:0,FAX News
@@ -43,9 +43,9 @@ https://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SYRI TV
 https://tv.syri.net/syrilive/webtv/chunks.m3u8
 #EXTINF:0,A2 CNN
-https://www.youtube.com/watch?v=wgyWrwqMcm4
+https://www.youtube.com/watch?v=JndmsIO9lkE
 #EXTINF:0,EuroNews
-https://www.youtube.com/watch?v=_wQuCfi0MF4
+https://www.youtube.com/watch?v=ZIs5kEgEuhs
 #EXTINF:0,Premium Channel
 http://premium-channel.tv/stream.m3u8?1
 #EXTINF:0,Zjarr TV
