@@ -46,6 +46,8 @@ https://tv.syri.net/syrilive/webtv/chunks.m3u8
 https://www.youtube.com/watch?v=JndmsIO9lkE
 #EXTINF:0,EuroNews
 https://www.youtube.com/watch?v=ZIs5kEgEuhs
+#EXTINF:0,Apollon TV
+http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_sleng.m3u8
 #EXTINF:0,Rozafa
 https://www.twitch.tv/rozafa
 #EXTINF:0,Premium Channel
