@@ -67,7 +67,7 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0,RADIO GALATSI
 http://a300.no-ip.biz:45000/
 #EXTINF:0,Top Albania Radio
-http://93.190.141.15:8452/;
+http://cp1.sednastream.com:8004/;
 #EXTINF:0,Club FM 100.4 FM
 http://93.190.141.15:7166/;stream.mp3
 #EXTINF:0,Vienna Party Mix
