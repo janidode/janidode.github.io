@@ -41,7 +41,7 @@ https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,TEMA TV
 https://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SYRI TV
-https://tv.syri.net/syrilive/webtv/chunks.m3u8
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
 #EXTINF:0,A2 CNN
 https://www.youtube.com/watch?v=Rw9ab_D9F2c
 #EXTINF:0,EuroNews
