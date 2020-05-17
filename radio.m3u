@@ -31,7 +31,7 @@ https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:0,TOP NEWS
-https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irQxERy2tlCNbXuhYvXCtuU4)/dm/3/x6inuzo/s/live-2.m3u8
+https://stream-08.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irS2UubADJ8Y_rXpKrOPeMac)/dm/3/x6inuzo/s/live-2.m3u8
 #EXTINF:0,ABC NEWS
 https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:0,FAX News
@@ -156,6 +156,8 @@ http://wma06.fluidstream.net:4610/
 https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_34243_stream_69596304
 #EXTINF:0,Alsion Radio
 http://109.169.26.216:8018
+#EXTINF:0,EuroStar Radio
+http://radioeurostar.al:9000/;
 #EXTINF:0,MCN Radio
 http://149.202.220.47:8888/mcnradio.m3u
 #EXTINF:0,105 Miami
