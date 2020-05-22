@@ -154,8 +154,12 @@ http://wma06.fluidstream.net:4610/
 https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_34243_stream_69596304
 #EXTINF:0,Alsion Radio
 http://109.169.26.216:8018
+#EXTINF:0,Radio Lushnja
+http://45.77.54.151:8000
 #EXTINF:0,EuroStar Radio
 http://radioeurostar.al:9000/;
+#EXTINF:0,LOVE RADIO
+http://95.107.173.168:6200/;
 #EXTINF:0,MCN Radio
 http://149.202.220.47:8888/mcnradio.m3u
 #EXTINF:0,105 Miami
@@ -166,6 +170,8 @@ http://live.topgold.al:9080/;
 http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
 #EXTINF:0,City Radio 88.0 FM
 http://93.190.141.15:7368/
+#EXTINF:0,Si Radio
+http://n07.radiojar.com/92as3vsdfwzuv
 #EXTINF:0,Rix FM
 http://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553021
 #EXTINF:0,Rix FM Fresh
