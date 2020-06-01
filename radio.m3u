@@ -67,7 +67,7 @@ https://1music.hu/1music.m3u8
 #EXTINF:0,DeeJay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0,RADIO GALATSI
-http://a300.no-ip.biz:45000/
+https://sslstreaming.com:7019/;
 #EXTINF:0,Top Albania Radio
 http://cp1.sednastream.com:8004/;
 #EXTINF:0,Club FM 100.4 FM
