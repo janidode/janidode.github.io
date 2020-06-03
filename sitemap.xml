@@ -4,10 +4,8 @@
     <loc>https://janidode.info</loc>
     <changefreq>daily</changefreq>
   </url>
-  
     <url>
     <loc>https://janidode.info/janidode.vcf</loc>
     <changefreq>daily</changefreq>
   </url>
-  
 </urlset>
