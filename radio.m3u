@@ -12,8 +12,8 @@ http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,RTSH Korca
 https://edge06eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1,RTSH Plus
-http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-1,RTSH Shkolle
+http://79.106.48.2:80/live/rtsh_plus_ott/playlist.m3u8
 #EXTINF:-1,RTSH Muzike
 http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
 #EXTINF:-1,RTSH 24
