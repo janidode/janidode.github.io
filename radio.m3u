@@ -60,6 +60,8 @@ http://27.shqiptv.org/channel7/channel7/index.m3u8
 http://edge01eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:0,Scan TV
 http://edge01eu.ekranet.com/scantv/index.m3u8
+#EXTINF:0,City TV
+https://www.twitch.tv/cityradioalbania
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
