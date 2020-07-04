@@ -77,7 +77,7 @@ https://sslstreaming.com:7019/;
 #EXTINF:0,Top Albania Radio
 http://cp1.sednastream.com:8004/;
 #EXTINF:0,Club FM 100.4 FM
-http://93.190.141.15:7166/;stream.mp3
+https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
 #EXTINF:0,Vienna Party Mix
 http://webradio.vienna.at/vie-partymix
 #EXTINF:0,Vienna Top 40
