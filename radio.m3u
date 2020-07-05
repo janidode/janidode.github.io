@@ -50,20 +50,14 @@ https://www.youtube.com/watch?v=6R4yzlmEhrs
 http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_sleng.m3u8
 #EXTINF:0,Rozafa
 https://www.twitch.tv/rozafa
-#EXTINF:0,Zjarr TV
-https://edge06eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Channel 7
 http://27.shqiptv.org/channel7/channel7/index.m3u8
-#EXTINF:0,Shijak TV
-http://edge01eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:0,Scan TV
 http://edge01eu.ekranet.com/scantv/index.m3u8
 #EXTINF:0,City TV
 https://www.twitch.tv/cityradioalbania
-#EXTINF:0,NRG TV
-https://www.twitch.tv/energyradioalbania
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
@@ -108,6 +102,8 @@ http://149.202.220.47:8888/rti
 http://149.202.220.47:8888/radiotiranaklasik1
 #EXTINF:0,Radio Tirana Jazz
 http://149.202.220.47:8888/radiotiranajazz
+#EXTINF:0,Radio Tirana Fëmijë
+http://149.202.220.47:8888/radiotiranafemije.m3u
 #EXTINF:0,Vienna Lounge
 http://webradio.vienna.at/vie-lounge
 #EXTINF:0,Maretimo Funky Radio
@@ -152,8 +148,6 @@ http://shoutcast.rtl.it:3010/stream/1/
 http://wma06.fluidstream.net:4610/
 #EXTINF:0,Radio Klea
 https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_34243_stream_69596304
-#EXTINF:0,Alsion Radio
-http://109.169.26.216:8018
 #EXTINF:0,Radio Lushnja
 http://45.77.54.151:8000
 #EXTINF:0,EuroStar Radio
