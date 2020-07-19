@@ -132,10 +132,20 @@ https://deluxe.hoerradar.de/deluxe-easy-mp3-mq
 https://deluxe.hoerradar.de/deluxe-lounge-mp3-hq
 #EXTINF:0,DELUXE 80s EXTREME
 https://deluxe.hoerradar.de/deluxe-80s-mp3-hq
-#EXTINF:0,DELUXE ALMOST FAMOUS
-http://46.245.183.120:8000/0002
+#EXTINF:0,JukeBox
+https://deluxe.hoerradar.de/jukeboxradio-aac-mq
 #EXTINF:0,DISCO DELUXE
 https://deluxe.hoerradar.de/discodeluxe-mp3-hq
+#EXTINF:0,DELUXE CHEFSESSEL
+https://deluxe.hoerradar.de/deluxe-chefsessel-aac-mq
+#EXTINF:0,DELUXE TOP 40
+https://deluxe.hoerradar.de/deluxe-top40-aac-mq
+#EXTINF:0,DANCE DELUXE
+https://deluxe.hoerradar.de/deluxe-famous-aac-mq
+#EXTINF:0,DELUXE NEW ARRIVALS
+https://deluxe.hoerradar.de/deluxe-arrivals-aac-mq
+#EXTINF:0,KAVKA DELUXE
+https://deluxe.hoerradar.de/kanalkavka-aac-mq
 #EXTINF:0,The Lounge Channel
 https://www.theloungechannel.com/listen.m3u
 #EXTINF:0,RTL 102.5 Classic
