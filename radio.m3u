@@ -169,7 +169,7 @@ http://95.107.173.168:6200/;
 #EXTINF:0,MCN Radio
 http://149.202.220.47:8888/mcnradio.m3u
 #EXTINF:0,105 Miami
-http://titoli.unitedradio.it/105Miami.mp3
+https://icy.unitedradio.it/105Miami.mp3
 #EXTINF:0,TOP GOLD
 http://live.topgold.al:9080/;
 #EXTINF:0,VOA
@@ -183,13 +183,13 @@ http://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-w
 #EXTINF:0,Rix FM Fresh
 http://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553144
 #EXTINF:0,Radiotravel 104.6 Mhz
-http://93.190.141.15:7253/live
+http://cp1.sednastream.com:8050/stream?ver=455210
 #EXTINF:0,MC2
 https://edge.singsingmusic.net/MC2.mp3
 #EXTINF:0,Tirana Jazz Radio
 http://live.tiranajazzradio.com:8000/stream
 #EXTINF:0,Radio Shqip
-http://93.190.141.15:8206/;stream.mp3?_=1
+https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3
 #EXTINF:0,Alpo Radio
 http://62.210.24.124:8379/;stream.mp3
 #EXTINF:0,Radio Kontakt
