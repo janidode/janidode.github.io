@@ -50,8 +50,6 @@ https://www.youtube.com/watch?v=I8TovVzvV3k
 https://www.youtube.com/watch?v=6R4yzlmEhrs
 #EXTINF:0,Apollon TV
 http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_sleng.m3u8
-#EXTINF:0,Rozafa
-https://www.twitch.tv/rozafa
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
@@ -60,8 +58,6 @@ http://84.16.241.205:88/live/livestream.m3u8
 http://27.shqiptv.org/channel7/channel7/index.m3u8
 #EXTINF:0,Scan TV
 http://edge01eu.ekranet.com/scantv/index.m3u8
-#EXTINF:0,City TV
-https://www.twitch.tv/cityradioalbania
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
