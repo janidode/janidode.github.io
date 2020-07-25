@@ -179,7 +179,7 @@ http://live.topgold.al:9080/;
 #EXTINF:0,VOA
 http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
 #EXTINF:0,City Radio 88.0 FM
-http://93.190.141.15:7368/
+ https://cp1.sednastream.com/proxy/cityradio?mp=/stream
 #EXTINF:0,Si Radio
 http://n07.radiojar.com/92as3vsdfwzuv
 #EXTINF:0,Rix FM
