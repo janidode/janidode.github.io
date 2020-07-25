@@ -24,6 +24,8 @@ http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
 http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8 
 #EXTINF:-1,RTSH Kuvendi
 https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:-1,RTSH Kukesi
+http://79.106.48.2/live/rtsh_kukesi/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
