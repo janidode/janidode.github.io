@@ -32,8 +32,6 @@ https://tv.oranews.tv/live/oranews/index.m3u8
 https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:0,TOP NEWS
-https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irQP9r_Vwg2dYq31Pko1gRaw)/dm/3/x6inuzo/s/live-2.m3u8
 #EXTINF:0,ABC NEWS
 https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:0,FAX News
@@ -44,14 +42,8 @@ https://sh-stream.duckdns.org/hls/stream.m3u8
 https://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SYRI TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
-#EXTINF:0,A2 CNN
-https://www.youtube.com/watch?v=I8TovVzvV3k
-#EXTINF:0,EuroNews
-https://www.youtube.com/watch?v=6R4yzlmEhrs
 #EXTINF:0,Apollon TV
 http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_sleng.m3u8
-#EXTINF:0,TV Kopliku
-http://167.86.125.240:25461/live/l/l2/2146.m3u8?token=QxVcBUdQRlgVAFIKAwQBBVQAUVcMCgNVAwddAgcJUAJaDw1XAV0CUQBGSRsWEURWUAtsD1AQDwJUUQ8dQ0VFBkpoXQAWAkZQBEZJGxEMW1YTXANKFkJcVEdfGwNVCQdTGhsWAUxMARBZBQlmAQBAWlIDEVxaR1lcSUdWXz5UUw5ZWVBGDhpUQBtGDEoVRwxdRApfShZQXEQXBE1UQwoUUA8HDEYYGgcNQgoRSxxHDBF/KhFKFldNRAALSlgOXhRZGloHEQwaSEBeFzpLABZCQVQHXgNGEA8SVUcVEwxRTjxbWFoKUVsQC1gKFhtfRwYRHUReCVpbQV8XOklYBRIMQQsODVAWRQ==
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
