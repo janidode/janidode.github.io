@@ -45,7 +45,7 @@ https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:0,FAX News
 https://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:0,REPORT TV
-https://sh-stream.duckdns.org/hls/stream.m3u8
+https://reporttvstream.com/hls/stream.m3u8
 #EXTINF:0,SHIJAK TV
 http://edge01eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:0,TEMA TV
