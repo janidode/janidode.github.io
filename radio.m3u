@@ -11,7 +11,7 @@ http://79.106.48.2/live/rtsh_plus/playlist.m3u8
 #EXTINF:0,RTSH Sport
 https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:0,RTSH Korca
-https://79.106.48.2:80/live/rtsh_korca/playlist.m3u8
+http://79.106.48.2:80/live/rtsh_korca/playlist.m3u8
 #EXTINF:0,RTSH Shqip
 https://edge01eu.ekranet.com/rtshshqip1/index.m3u8
 #EXTINF:0,RTSH Muzike
@@ -21,13 +21,13 @@ https://edge01eu.ekranet.com/rtsh24/index.m3u8
 #EXTINF:0,RTSH Femije 
 https://edge01eu.ekranet.com/rtshfemije_240p/index.m3u8
 #EXTINF:0,RTSH Shkolle
-https://79.106.48.2:80/live/rtsh_plus_mob/playlist.m3u8
+http://79.106.48.2:80/live/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Film 
 https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
 #EXTINF:0,RTSH Kuvendi
 https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
 #EXTINF:0,RTSH Gjirokastra
-https://79.106.48.2:80/live/rtsh_gjirokastra/playlist.m3u8
+http://79.106.48.2:80/live/rtsh_gjirokastra/playlist.m3u8
 #EXTINF:-1,RTSH Kukesi
 http://79.106.48.2:80/live/rtsh_kukesi/playlist.m3u8
 #EXTINF:-1,Elrodi TV
