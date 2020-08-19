@@ -21,7 +21,7 @@ https://edge01eu.ekranet.com/rtsh24/index.m3u8
 #EXTINF:0,RTSH Femije 
 https://edge01eu.ekranet.com/rtshfemije_240p/index.m3u8
 #EXTINF:0,RTSH Shkolle
-https://79.106.48.2:80/rtsh_plus_mob/playlist.m3u8
+https://79.106.48.2:80/live/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Film 
 https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
 #EXTINF:0,RTSH Kuvendi
