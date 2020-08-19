@@ -1,28 +1,26 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,RTSH 1
-http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
-#EXTINF:-1,RTSH 2
-http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
-#EXTINF:-1,RTSH 3
-http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
-#EXTINF:-1,RTSH Shqip
-http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
-#EXTINF:-1,RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1,RTSH Korca
-https://edge06eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1,RTSH Shkolle
-http://79.106.48.2:80/live/rtsh_plus_ott/playlist.m3u8
-#EXTINF:-1,RTSH Muzike
-http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
-#EXTINF:-1,RTSH 24
-http://79.106.48.2/live/rtsh_24_ott/playlist.m3u8
-#EXTINF:-1,RTSH Femije
-http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
-#EXTINF:-1,RTSH Film
-http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8 
-#EXTINF:-1,RTSH Kuvendi
+#EXTINF:0,RTSH 1
+https://edge01eu.ekranet.com/rtshhd_low/index.m3u8
+#EXTINF:0,RTSH 2
+https://edge01eu.ekranet.com/rtsh2hd1/index.m3u8
+#EXTINF:0,RTSH 3
+https://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
+#EXTINF:0,RTSH Sport
+https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
+#EXTINF:0,RTSH Korca
+https://edge01eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:0,RTSH Shqip
+https://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:0,RTSH Muzike
+https://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:0,RTSH 24 
+https://edge01eu.ekranet.com/rtsh24/index.m3u8
+#EXTINF:0,RTSH Femije 
+https://edge01eu.ekranet.com/rtshfemije_240p/index.m3u8
+#EXTINF:0,RTSH Film 
+https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:0,RTSH Kuvendi
 https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
 #EXTINF:-1,RTSH Kukesi
 http://79.106.48.2/live/rtsh_kukesi/playlist.m3u8
