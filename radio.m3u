@@ -6,6 +6,8 @@ https://edge01eu.ekranet.com/rtshhd_low/index.m3u8
 https://edge01eu.ekranet.com/rtsh2hd1/index.m3u8
 #EXTINF:0,RTSH 3
 https://edge01eu.ekranet.com/rtsh3hd1/index.m3u8
+#EXTINF:-1,RTSH Plus
+http://79.106.48.2/live/rtsh_plus/playlist.m3u8
 #EXTINF:0,RTSH Sport
 https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:0,RTSH Korca
@@ -18,12 +20,20 @@ https://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
 https://edge01eu.ekranet.com/rtsh24/index.m3u8
 #EXTINF:0,RTSH Femije 
 https://edge01eu.ekranet.com/rtshfemije_240p/index.m3u8
+#EXTINF:0,RTSH Shkolle
+https://79.106.48.2:80/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Film 
 https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
 #EXTINF:0,RTSH Kuvendi
 https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:0,RTSH Gjirokastra
+https://79.106.48.2:80/rtsh_gjirokastra/playlist.m3u8
 #EXTINF:-1,RTSH Kukesi
-http://79.106.48.2/live/rtsh_kukesi/playlist.m3u8
+http://79.106.48.2:80/live/rtsh_kukesi/playlist.m3u8
+#EXTINF:-1,Elrodi TV
+http://79.137.66.111:80/elroditv_240/index.m3u8
+#EXTINF:-1,Adria Net
+http://79.106.48.2:80/live/adriamed/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
@@ -100,6 +110,14 @@ http://79.106.48.2:8000/radiotiranaklasik1.m3u
 http://79.106.48.2:8000/radiotiranajazz.m3u
 #EXTINF:0,Radio Tirana Fëmijë
 http://79.106.48.2:8000/radiotiranafemije.m3u
+#EXTINF:0,Radio Gjirokastra
+http://171.22.148.170:80/live/radio_gjirokastra/playlist.m3u
+#EXTINF:0,Radio Tirana Muzike
+http://171.22.148.170:80/live/radio_muzike/playlist.m3u
+#EXTINF:0,Radio Korca
+http://171.22.148.170:80/live/radio_korca/playlist.m3u
+#EXTINF:0,Radio Kukesi
+http://79.106.48.2:80/live/radio_kukesi/playlist.m3u
 #EXTINF:0,Vienna Lounge
 http://webradio.vienna.at/vie-lounge
 #EXTINF:0,Maretimo Funky Radio
