@@ -180,8 +180,40 @@ http://radioeurostar.al:9000/;
 http://95.107.173.168:6200/;
 #EXTINF:0,MCN Radio
 http://149.202.220.47:8888/mcnradio.m3u
+#EXTINF:0,R101
+http://icecast.unitedradio.it/r101
 #EXTINF:0,105 Miami
 https://icy.unitedradio.it/105Miami.mp3
+#EXTINF:0,105 Estate
+http://icecast.unitedradio.it/105Estate.mp3
+#EXTINF:0,105 Hits
+http://icy.unitedradio.it/105Hits.mp3
+#EXTINF:0,Radio Monte Carlo VIP Lounge
+http://icy.unitedradio.it/rmcweb020
+#EXTINF:0,Radio Monte Carlo Hits
+http://icy.unitedradio.it/rmcweb001
+#EXTINF:0,Radio Monte Carlo Monte Carlo Nights Story
+http://icy.unitedradio.it/rmcweb012
+#EXTINF:0,Radio Monte Carlo Buddha Bar
+http://icy.unitedradio.it/rmcweb002
+#EXTINF:0,Radio Monte Carlo Disco Funk
+http://icy.unitedradio.it/rmcweb025
+#EXTINF:0,Radio Monte Carlo Cool
+http://icy.unitedradio.it/rmcweb004
+#EXTINF:0,Radio Monte Carlo New Classics
+http://icy.unitedradio.it/rmcweb011
+#EXTINF:0,Radio Monte Carlo Voyage Voyage
+http://icy.unitedradio.it/rmcweb022
+#EXTINF:0,Radio Monte Carlo Marine
+http://icy.unitedradio.it/rmcweb010
+#EXTINF:0,Radio Monte Carlo Next
+http://icy.unitedradio.it/rmcweb019
+#EXTINF:0,Radio Monte Carlo Party
+http://icy.unitedradio.it/rmcweb018
+#EXTINF:0,Radio Monte Carlo Fitness
+http://icy.unitedradio.it/rmcweb023
+#EXTINF:0,Radio Monte Carlo Running
+http://icy.unitedradio.it/rmcweb021
 #EXTINF:0,TOP GOLD
 http://live.topgold.al:9080/;
 #EXTINF:0,VOA
