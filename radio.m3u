@@ -178,6 +178,8 @@ http://shoutcast.rtl.it:3010/stream/1/
 http://wma06.fluidstream.net:4610/
 #EXTINF:0,Radio Klea
 https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_34243_stream_69596304
+#EXTINF:0,Alsion Radio
+http://109.169.26.216:8018/;
 #EXTINF:0,Radio Lushnja
 http://45.77.54.151:8000
 #EXTINF:0,EuroStar Radio
