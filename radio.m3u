@@ -49,7 +49,7 @@ https://reporttvstream.com/hls/stream.m3u8
 #EXTINF:0,SHIJAK TV
 http://edge01eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:0,TEMA TV
-https://edge01eu.ekranet.com/tematv_720p/index.m3u8
+http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SYRI TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
 #EXTINF:0,SOT 7
