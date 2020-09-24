@@ -9,7 +9,7 @@ http://171.22.148.170:80/live/rtsh_3mob/playlist.m3u8
 #EXTINF:-1,RTSH Plus
 http://79.106.48.2/live/rtsh_plus/playlist.m3u8
 #EXTINF:0,RTSH Sport
-http://79.106.48.2:80/live/rtsh_sport_mob1/playlist.m3u8
+http://79.106.48.2:80/live/rtsh_sport_mob11/playlist.m3u8
 #EXTINF:0,RTSH Korca
 http://79.106.48.2:80/live/rtsh_korca/playlist.m3u8
 #EXTINF:0,RTSH Shqip
