@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://ssh101.com/securelive/index.php?id=sot7
 #EXTINF:0,RTSH 1
 http://79.106.48.2:80/live/rtsh_11mob1/playlist.m3u8
 #EXTINF:0,RTSH 2
