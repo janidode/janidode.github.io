@@ -111,7 +111,7 @@ http://79.106.48.2:8000/radiotiranaklasik1.m3u
 #EXTINF:0,Radio Tirana Jazz
 http://79.106.48.2:8000/radiotiranajazz.m3u
 #EXTINF:0,Radio Tirana Fëmijë
-http://79.106.48.2:8000/radio_tirana_femije/playlist.m3u8
+http://79.106.48.2:8000/live/radio_tirana_femije/playlist.m3u8
 #EXTINF:0,Radio Gjirokastra
 http://171.22.148.170:80/live/radio_gjirokastra/playlist.m3u8
 #EXTINF:0,Radio Tirana Muzike
