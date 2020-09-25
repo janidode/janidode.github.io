@@ -120,6 +120,8 @@ http://171.22.148.170:80/live/radio_muzike/playlist.m3u8
 http://171.22.148.170:80/live/radio_korca/playlist.m3u8
 #EXTINF:0,Radio Kukesi
 http://79.106.48.2:80/live/radio_kukesi/playlist.m3u8
+#EXTINF:0,Radio Shkodra
+http://171.22.148.170:80/live/radio_shkodra/playlist.m3u8
 #EXTINF:0,Radio +4 Lushnje
 http://45.77.54.151:8080/;stream.mp3
 #EXTINF:0,Vienna Lounge
