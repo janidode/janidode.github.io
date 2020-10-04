@@ -42,8 +42,6 @@ https://tv.oranews.tv/live/ora/index.m3u8
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:0,ABC NEWS
 https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
-#EXTINF:0,FAX News
-https://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:0,REPORT TV
 https://reporttvstream.com/hls/stream.m3u8
 #EXTINF:0,SHIJAK TV
