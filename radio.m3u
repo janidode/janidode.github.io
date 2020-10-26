@@ -177,7 +177,7 @@ https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_34243_stream_695963
 #EXTINF:0,Alsion Radio
 http://109.169.26.216:8018/;
 #EXTINF:0,+4 Radio Lushnje
-http://myradiostream.com/embed/assets/mp3/test.mp3
+http://145.239.6.124:12638/;?0.1450635729051668
 #EXTINF:0,Radio Lushnja
 http://45.77.54.151:8000
 #EXTINF:0,EuroStar Radio
@@ -227,7 +227,7 @@ https://live.top-media.al/mmr
 #EXTINF:0,VOA
 http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
 #EXTINF:0,City Radio 88.0 FM
- https://cp1.sednastream.com/proxy/cityradio?mp=/stream
+https://cp1.sednastream.com/proxy/cityradio?mp=/stream
 #EXTINF:0,Si Radio
 http://84.20.67.70:8000/stream
 #EXTINF:0,Rix FM
