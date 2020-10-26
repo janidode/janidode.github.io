@@ -221,7 +221,9 @@ http://icy.unitedradio.it/rmcweb023
 #EXTINF:0,Radio Monte Carlo Running
 http://icy.unitedradio.it/rmcweb021
 #EXTINF:0,TOP GOLD
-http://live.topgold.al:9080/;
+https://live.topgold.al/topgold
+#EXTINF:0,My Music Radio
+https://live.top-media.al/mmr
 #EXTINF:0,VOA
 http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
 #EXTINF:0,City Radio 88.0 FM
