@@ -103,7 +103,7 @@ http://79.106.48.2:8000/radiotirana2.m3u
 #EXTINF:0,Radio Tirana 3
 http://79.106.48.2:8000/radiotirana3.m3u
 #EXTINF:0,Radio Tirana International
-http://171.22.148.170:80/live/radio_tirana_international/playlist.m3u8
+http://51.178.89.160:80/live/radio_tirana_international/playlist.m3u8
 #EXTINF:0,Radio Tirana Klasik
 http://79.106.48.2:8000/radiotiranaklasik1.m3u
 #EXTINF:0,Radio Tirana Jazz
