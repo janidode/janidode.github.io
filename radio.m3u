@@ -30,6 +30,8 @@ http://79.106.48.2:80/live/rtsh_kuvendi_mob/playlist.m3u8
 http://79.106.48.2:80/live/rtsh_gjirokastra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Kukesi
 http://79.106.48.2:80/live/rtsh_kukesi_mob/playlist.m3u8
+#EXTINF:-1,RTSH Agro
+http://51.178.89.160:80/live/rtsh_agro_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Net
