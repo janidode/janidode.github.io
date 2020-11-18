@@ -101,29 +101,29 @@ https://cast.topradio.al/radio/8000/radio.mp3?
 #EXTINF:0,Mulliri Vjeter Radio
 https://cast.topradio.al/radio/8310/radio.mp3?
 #EXTINF:0,Radio Tirana 1
-http://51.178.89.160:8000/radiotirana1.m3u
+http://51.210.0.169:80/live/radio_tirana_1/playlist.m3u8
 #EXTINF:0,Radio Tirana 2
-http://51.178.89.160:8000/radiotirana2.m3u
+http://51.210.0.169:80/live/radio_tirana_2/playlist.m3u8
 #EXTINF:0,Radio Tirana 3
-http://51.178.89.160:8000/radiotirana3.m3u
+http://51.210.0.169:80/live/radio_3/playlist.m3u8
 #EXTINF:0,Radio Tirana International
 http://51.210.0.169:80/live/radio_tirana_international/playlist.m3u8
 #EXTINF:0,Radio Tirana Klasik
-http://51.178.89.160:8000/radiotiranaklasik1.m3u
+http://51.210.0.169:80/live/radio_tirana_klasik/playlist.m3u8
 #EXTINF:0,Radio Tirana Jazz
-http://51.178.89.160:8000/radiotiranajazz.m3u
+http://51.210.0.169:80/live/radio_tirana_jazz/playlist.m3u8
 #EXTINF:0,Radio Tirana Fëmijë
-http://51.178.89.160:80/live/radio_tirana_femije/playlist.m3u8
+http://51.210.0.169:80/live/radio_tirana_femije/playlist.m3u8
 #EXTINF:0,Radio Gjirokastra
-http://171.22.148.170:80/live/radio_gjirokastra/playlist.m3u8
+http://51.210.0.169:80/live/radio_gjirokastra/playlist.m3u8
 #EXTINF:0,Radio Tirana Muzike
-http://171.22.148.170:80/live/radio_muzike/playlist.m3u8
+http://51.210.0.169:80/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Korca
-http://171.22.148.170:80/live/radio_korca/playlist.m3u8
+http://51.210.0.169:80/live/radio_korca/playlist.m3u8
 #EXTINF:0,Radio Kukesi
-http://51.178.89.160:80/live/radio_kukesi/playlist.m3u8
+http://51.210.0.169:80/live/radio_kukesi/playlist.m3u8
 #EXTINF:0,Radio Shkodra
-http://171.22.148.170:80/live/radio_shkodra/playlist.m3u8
+http://51.210.0.169:80/live/radio_shkodra/playlist.m3u8
 #EXTINF:0,Vienna Lounge
 http://webradio.vienna.at/vie-lounge
 #EXTINF:0,Maretimo Funky Radio
