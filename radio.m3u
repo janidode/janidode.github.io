@@ -5,7 +5,7 @@ http://51.178.89.160:80/live/rtsh_11mob1/playlist.m3u8
 #EXTINF:0,RTSH 2
 http://51.178.89.160:80/live/rtsh_2mob/playlist.m3u8
 #EXTINF:0,RTSH 3
-http://171.22.148.170:80/live/rtsh_3mob/playlist.m3u8
+http://51.178.89.160:80/live/rtsh_3mob/playlist.m3u8
 #EXTINF:-1,RTSH Plus
 http://51.178.89.160/live/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
@@ -13,11 +13,11 @@ http://51.178.89.160:80/live/rtsh_sport_mob11/playlist.m3u8
 #EXTINF:0,RTSH Korca
 http://51.178.89.160:80/live/rtsh_korca_mob/playlist.m3u8
 #EXTINF:0,RTSH Shqip
-http://171.22.148.170:80/live/rtsh_shqip_mob/playlist.m3u8
+http://51.178.89.160:80/live/rtsh_shqip_mob/playlist.m3u8
 #EXTINF:0,RTSH Muzike
-http://171.22.148.170:80/live/rtsh_muzike_mob/playlist.m3u8
+http://51.178.89.160:80/live/rtsh_muzike_mob/playlist.m3u8
 #EXTINF:0,RTSH 24 
-http://171.22.148.170:80/live/rtsh_24_mob/playlist.m3u8
+http://51.178.89.160:80/live/rtsh_24_mob/playlist.m3u8
 #EXTINF:0,RTSH Femije 
 http://51.178.89.160:80/live/rtsh_femije_mob/playlist.m3u8
 #EXTINF:0,RTSH Shkolle
@@ -33,7 +33,7 @@ http://51.178.89.160:80/live/rtsh_kukesi_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
 http://51.178.89.160:80/live/rtsh_agro_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
-http://79.137.66.111:80/elroditv_240p/index.m3u8
+http://51.178.89.160:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Net
 http://51.178.89.160:80/live/adriamed/playlist.m3u8
 #EXTINF:0,ORA NEWS
