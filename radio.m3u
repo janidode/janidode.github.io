@@ -107,7 +107,7 @@ http://51.210.0.169:80/live/radio_tirana_2/playlist.m3u8
 #EXTINF:0,Radio Tirana 3
 http://51.210.0.169:80/live/radio_3/playlist.m3u8
 #EXTINF:0,Radio Tirana International
-http://51.210.0.169:80/live/radio_tirana_international/playlist.m3u8
+http://51.210.0.169:80/live/radio_tirana_internacional/playlist.m3u8
 #EXTINF:0,Radio Tirana Klasik
 http://51.210.0.169:80/live/radio_tirana_klasik/playlist.m3u8
 #EXTINF:0,Radio Tirana Jazz
