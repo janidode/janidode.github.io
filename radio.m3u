@@ -52,8 +52,6 @@ http://edge03eu.ekranet.com/shijaktv/index.m3u8
 http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SYRI TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
-#EXTINF:0,FAX TV
-https://edge01eu.ekranet.com/faxnews/index.m3u
 #EXTINF:0,SOT 7
 http://93.188.164.35:1935/live/sot7/playlist.m3u8
 #EXTINF:0,Apollon TV
