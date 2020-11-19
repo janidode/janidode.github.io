@@ -175,7 +175,7 @@ https://rtl-radio4-stream.thron.com/live/radio4/radio4/chunklist.m3u8
 #EXTINF:0,RTL 102.5
 http://shoutcast.rtl.it:3010/stream/1/
 #EXTINF:0,Radio Kiss Kiss
-http://wma06.fluidstream.net:4610/
+https://ice06.fluidstream.net/KissKiss.aac
 #EXTINF:0,Radio Klea
 https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_34243_stream_69596304
 #EXTINF:0,Alsion Radio
@@ -191,7 +191,7 @@ http://95.107.173.168:6200/;
 #EXTINF:0,CLUB FM KOSOVA
 https://cp1.sednastream.com/proxy/clubfmkosova?mp=%2F%3Bstream.mp3&_=1
 #EXTINF:0,MCN Radio
-http://149.202.220.47:8888/mcnradio.m3u
+http://149.202.220.47:8888/mcnradio.pls
 #EXTINF:0,R101
 http://icecast.unitedradio.it/r101
 #EXTINF:0,105 Miami
