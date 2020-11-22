@@ -36,22 +36,38 @@ http://51.178.89.160:80/live/rtsh_agro_mob/playlist.m3u8
 http://51.178.89.160:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Net
 http://51.178.89.160:80/live/adriamed/playlist.m3u8
+#EXTINF:-1,Klan
+http://79.106.48.2:4040/live/klanhdmob/playlist.m3u8
+#EXTINF:-1,Klan Plus
+http://79.106.48.2:4040/live/klanplusmob/playlist.m3u8
+#EXTINF:-1,Klan News
+http://79.106.48.2:4040/live/klannewsmob/playlist.m3u8
+#EXTINF:0,ABC NEWS
+http://79.106.48.2:4040/live/abcnewsmob/playlist.m3u8
+#EXTINF:0,EURONEWS
+http://79.106.48.2:4040/live/euronewsmob/playlist.m3u8
+#EXTINF:0,SYRI TV
+http://79.106.48.2:4040/live/syritvmob/playlist.m3u8
+#EXTINF:0,SCAN TV
+http://79.106.48.2:4040/live/scanmob/playlist.m3u8
+#EXTINF:0,Klan Macedonia
+http://79.106.48.2:4040/live/klanmacedoniamob/playlist.m3u8
+#EXTINF:0,Klan Music
+http://79.106.48.2:4040/live/klanmusicmob/playlist.m3u8
+#EXTINF:0,IN TV
+http://79.106.48.2:4040/live/intvott/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
 https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:0,ABC NEWS
-https://abcnews.al/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:0,REPORT TV
 https://reporttvstream.com/hls/stream.m3u8
 #EXTINF:0,SHIJAK TV
 http://edge03eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:0,TEMA TV
 http://edge01eu.ekranet.com/tematv_720p/index.m3u8
-#EXTINF:0,SYRI TV
-https://tv.syri.net/syrilive/webtv/playlist.m3u8
 #EXTINF:0,SOT 7
 http://93.188.164.35:1935/live/sot7/playlist.m3u8
 #EXTINF:0,Apollon TV
@@ -230,6 +246,8 @@ http://icy.unitedradio.it/rmcweb021
 https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
 https://live.top-media.al/mmr
+#EXTINF:0,Klan Music Radio
+http://79.106.72.195:5000/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,VOA
 http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
 #EXTINF:0,City Radio 88.0 FM
