@@ -5,7 +5,7 @@ http://79.106.48.2:3333/live/rtsh_11mob1/playlist.m3u8
 #EXTINF:0,RTSH 2
 http://79.106.48.2:3333/live/rtsh_2mob/playlist.m3u8
 #EXTINF:0,RTSH 3
-http://79.106.48.2:3333/live/rtsh_3mob/playlist.m3u8
+http://79.106.48.2:3333/live/rtsh3mob/playlist.m3u8
 #EXTINF:-1,RTSH Plus
 http://79.106.48.2:3333/live/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
@@ -33,7 +33,7 @@ http://79.106.48.2:3333/live/rtsh_kukesi_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
 http://79.106.48.2:3333/live/rtsh_agro_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
-http://79.106.48.2:3333/elroditv_240p/index.m3u8
+http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Net
 http://79.106.48.2:3333/live/adriamed/playlist.m3u8
 #EXTINF:-1,Klan
@@ -77,7 +77,7 @@ http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_slen
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
-http://51.178.89.160:80/live/premium/playlist.m3u8
+http://79.106.48.2:3333/live/premium/playlist.m3u8
 #EXTINF:0,Channel 7
 http://27.shqiptv.org/channel7/channel7/index.m3u8
 #EXTINF:0,Korca Plus
