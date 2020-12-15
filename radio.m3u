@@ -182,16 +182,6 @@ https://deluxe.hoerradar.de/deluxe-arrivals-aac-mq
 https://deluxe.hoerradar.de/kanalkavka-aac-mq
 #EXTINF:0,The Lounge Channel
 https://www.theloungechannel.com/listen.m3u
-#EXTINF:0,RTL 102.5 Classic
-http://shoutcast.rtl.it:3020/stream/1/
-#EXTINF:0,RTL 102.5 DOC
-https://rtl-radio12-stream.thron.com/live/radio12/radio12/chunklist.m3u8
-#EXTINF:0,RTL 102.5 Groove
-https://rtl-radio10-stream.thron.com/live/radio10/radio10/chunklist.m3u8
-#EXTINF:0,RTL 102.5 Bro&Sis
-https://rtl-radio4-stream.thron.com/live/radio4/radio4/chunklist.m3u8
-#EXTINF:0,RTL 102.5
-http://shoutcast.rtl.it:3010/stream/1/
 #EXTINF:0,Radio Kiss Kiss
 https://ice06.fluidstream.net/KissKiss.aac
 #EXTINF:0,Radio Klea
@@ -249,9 +239,13 @@ https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
 https://live.top-media.al/mmr
 #EXTINF:0,Klan Music Radio
-http://79.106.72.195:5000/live/klanmusicradio1/playlist.m3u8
+http://51.195.88.12:4050/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,IN Radio
 http://80.90.86.194:1935/live/inradio/playlist.m3u8
+#EXTINF:0,Ora News Radio
+http://51.195.88.12:4050/live/radioora/playlist.m3u8
+#EXTINF:0,Syri Radio
+http://79.106.71.178:1935/syri/radio/playlist.m3u8
 #EXTINF:0,VOA
 http://voa28.akacast.akamaistream.net/7/325/437810/v1/ibb.akacast.akamaistream.net/voa28
 #EXTINF:0,City Radio 88.0 FM
