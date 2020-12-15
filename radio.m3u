@@ -57,7 +57,7 @@ http://79.106.48.2:4040/live/klanmacedoniamob/playlist.m3u8
 #EXTINF:0,Klan Music
 http://79.106.48.2:4040/live/klanmusicmob/playlist.m3u8
 #EXTINF:0,IN TV
-http://79.106.48.2:4040/live/intvott/playlist.m3u8
+http://51.195.88.12:4050/live/intvmobpp1/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
