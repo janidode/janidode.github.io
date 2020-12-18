@@ -57,13 +57,17 @@ http://79.106.48.2:4040/live/klanmacedoniamob/playlist.m3u8
 #EXTINF:0,Klan Music
 http://79.106.48.2:4040/live/klanmusicmob/playlist.m3u8
 #EXTINF:0,IN TV
-http://51.195.88.12:4050/live/intvmobpp1/playlist.m3u8
+http://79.106.48.2:4040/live/intvmobpp1/playlist.m3u8
+#EXTINF:0,BBF
+http://79.106.48.2:4040/live/bbfmobpp1/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
 https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+#EXTINF:0,Fax News
+http://79.106.48.2:4040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:0,REPORT TV
 https://reporttvstream.com/hls/stream.m3u8
 #EXTINF:0,SHIJAK TV
