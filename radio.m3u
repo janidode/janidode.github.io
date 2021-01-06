@@ -44,6 +44,8 @@ http://79.106.48.2:4040/live/klanplusmob/playlist.m3u8
 http://79.106.48.2:4040/live/klannewsmob/playlist.m3u8
 #EXTINF:0,ABC NEWS
 http://79.106.48.2:4040/live/abcnewsmob/playlist.m3u8
+#EXTINF:0,TOP NEWS
+https://stream-10.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1ircJCML_XLhXkajykxJr3a8A)/dm/3/x6inuzo/s/live-3.m3u8
 #EXTINF:0,EURONEWS
 http://79.106.48.2:4040/live/euronewsmob/playlist.m3u8
 #EXTINF:0,SYRI TV
