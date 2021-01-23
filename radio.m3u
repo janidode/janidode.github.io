@@ -30,6 +30,8 @@ http://79.106.48.2:3333/live/rtsh_kuvendi_mob/playlist.m3u8
 http://79.106.48.2:3333/live/rtsh_gjirokastra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Kukesi
 http://79.106.48.2:3333/live/rtsh_kukesi_mob/playlist.m3u8
+#EXTINF:-1,RTSH Shkodra
+http://51.210.0.169:4030/live/rtsh_shkodra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
 http://79.106.48.2:3333/live/rtsh_agro_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
