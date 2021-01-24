@@ -75,7 +75,7 @@ https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:0,Fax News
 http://79.106.48.2:4040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:0,REPORT TV
-https://reporttvstream.com/hls/stream.m3u8
+https://reportstream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,SHIJAK TV
 http://edge03eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:0,TEMA TV
@@ -83,7 +83,7 @@ http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SOT 7
 http://93.188.164.35:1935/live/sot7/playlist.m3u8
 #EXTINF:0,Apollon TV
-http://185.80.224.14:1935/live/smil:web.smil/chunklist_w1277296302_b1628000_sleng.m3u8
+http://185.80.224.14:1935/live/smil:web.smil/chunklist_w964411874_b3500000_sleng.m3u8
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
