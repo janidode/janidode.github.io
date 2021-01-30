@@ -118,6 +118,8 @@ https://cp1.sednastream.com/proxy/radioone94?mp=/stream
 https://cast.topradio.al/radio/8000/radio.mp3?
 #EXTINF:0,Mulliri Vjeter Radio
 https://cast.topradio.al/radio/8310/radio.mp3?
+#EXTINF:0,Sophie Caffe Radio
+http://104.128.234.228:8000/.mp3
 #EXTINF:0,Radio Tirana 1
 http://79.106.48.2:3333/live/radio_tirana_1/playlist.m3u8
 #EXTINF:0,Radio Tirana 2
