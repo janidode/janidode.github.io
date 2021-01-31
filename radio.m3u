@@ -38,34 +38,6 @@ http://79.106.48.2:3333/live/rtsh_agro_mob/playlist.m3u8
 http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Net
 http://79.106.48.2:3333/live/adriamed/playlist.m3u8
-#EXTINF:-1,Klan
-http://79.106.48.2:4040/live/klanhdmob/playlist.m3u8
-#EXTINF:-1,Klan Plus
-http://79.106.48.2:4040/live/klanplusmob/playlist.m3u8
-#EXTINF:-1,Klan News
-http://79.106.48.2:4040/live/klannewsmob/playlist.m3u8
-#EXTINF:0,ABC NEWS
-http://79.106.48.2:4040/live/abcnewsmob/playlist.m3u8
-#EXTINF:0,TOP NEWS
-https://stream-10.ix7.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1ircJCML_XLhXkajykxJr3a8A)/dm/3/x6inuzo/s/live-3.m3u8
-#EXTINF:0,EURONEWS
-http://79.106.48.2:4040/live/euronewsmob/playlist.m3u8
-#EXTINF:0,SYRI TV
-http://79.106.48.2:4040/live/syritvmob/playlist.m3u8
-#EXTINF:0,SCAN TV
-http://79.106.48.2:4040/live/scanmob/playlist.m3u8
-#EXTINF:0,MCN TV
-http://51.195.88.12:4050/live/mcnpp1/playlist.m3u8
-#EXTINF:0,T7
-http://51.195.88.12:4050/live/t7/playlist.m3u8
-#EXTINF:0,Klan Macedonia
-http://79.106.48.2:4040/live/klanmacedoniamob/playlist.m3u8
-#EXTINF:0,Klan Music
-http://79.106.48.2:4040/live/klanmusicmob/playlist.m3u8
-#EXTINF:0,IN TV
-http://79.106.48.2:4040/live/intvmobpp1/playlist.m3u8
-#EXTINF:0,BBF
-http://79.106.48.2:4040/live/bbfmobpp1/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
@@ -254,8 +226,6 @@ http://icy.unitedradio.it/rmcweb021
 https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
 https://live.top-media.al/mmr
-#EXTINF:0,Klan Music Radio
-http://51.195.88.12:4050/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,IN Radio
 http://80.90.86.194:1935/live/inradio/playlist.m3u8
 #EXTINF:0,Ora News Radio
