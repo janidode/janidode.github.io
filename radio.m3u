@@ -8,12 +8,14 @@ http://79.106.48.2:3333/live/rtsh_2mob/playlist.m3u8
 http://79.106.48.2:3333/live/rtsh3mob/playlist.m3u8
 #EXTINF:-1,RTSH Plus
 http://79.106.48.2:3333/live/rtsh_plus_mob/playlist.m3u8
+#EXTINF:0,RTSH Shqip
+http://79.106.48.2:3333/live/rtsh_shqip_mob/playlist.m3u8
+#EXTINF:0,RTSH SAT
+http://79.106.48.2:3333/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
 http://79.106.48.2:3333/live/rtsh_sport_mob11/playlist.m3u8
 #EXTINF:0,RTSH Korca
 http://79.106.48.2:3333/live/rtsh_korca_mob/playlist.m3u8
-#EXTINF:0,RTSH Shqip
-http://79.106.48.2:3333/live/rtsh_shqip_mob/playlist.m3u8
 #EXTINF:0,RTSH Muzike
 http://79.106.48.2:3333/live/rtsh_muzike_mob/playlist.m3u8
 #EXTINF:0,RTSH 24
@@ -48,8 +50,6 @@ https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 http://79.106.48.2:4040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:0,REPORT TV
 https://reportstream.duckdns.org/hls/stream.m3u8
-#EXTINF:0,SHIJAK TV
-http://edge03eu.ekranet.com/shijaktv/index.m3u8
 #EXTINF:0,TEMA TV
 http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SOT 7
@@ -64,8 +64,6 @@ http://79.106.48.2:3333/live/premium/playlist.m3u8
 http://27.shqiptv.org/channel7/channel7/index.m3u8
 #EXTINF:0,Korca Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:0,NRG TV
-https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/Cp4Fbnu2yLw-9l3aJ3g2XzUJ0pPp-2LjHGSv6bJyEiex9jr2Jam1PO6OgcccAa5AmHtqLJLKCdI1k3L1QNZep7hhf2qQr1usHRZ3615koK2HVauKANxJ9STUTMb-8fVTWFMrGzjyW83L44obXtypfvxVXeIPYHVhwZTeWXbNuIDVGSDlKBanllqdwUDd5xk7jcNV2Q1hAzYDKN-SBLva5Va9zdjMHOhe9_VxHllx9Mi2qRgZo9nDlSP7CxrpBjwfJwVF_i3o71IZEVp5MFaH6dkO3pe2PMOn5H6VXNecjRWhsVDoKfozzBX7pqJJBC3v-mQLFkco9L49wxlU3ey9hV3c28G9o7cX_Nw1zAF_trJrPImHZGW9G6nokYh2yUuU5MnRsxAlxiyhSRai91BuJat1ot1AA69gEYGTO6eHqics_d7tTk5NLPh0quu77bSG7A-xcm84h4cp8hmxO62zTZZlxLERRVK0HxxAfXnyyX4qsYSP4FTIyjpI1RCvgShAHMEHjEsclqkPokerZXXwEHkoIjoSjK2qXVZrqOCfymfvP-PF7eMP1e840KcwSGnZse9LJzRNBBjPQe-KXEUFAelbVSMNrS4zA_ZE3p-AnWmgyVOMgYcUHjV5Bqd-rqjWSwvBvnm4Nwp8facql1hdrG80rbTG6QWe0Hy8MSa8npLinjZPlJZAfzkK7_MSBQb2kHYZTvc3OQ2xQxPIYYFJ6VQ4VgShSSSrq24DvzO3XRXzsTt_ySCy_A24ukDiq8ZVf4mGv8q3Z5wxRytHwUhHrywWXDBbaoLBPI6zxAV_U4r6pGaf-_vpi-QMgOrRQlTlrNXJZcJmrE1Se90UjiIsoPaTBGw48e9WGLhTg3n3WO8KrWJidZGPz86wnJS6j5QbFhIQAltgr0qg8Mzrp3ZB52DyNxoMkL33PoYHb5FLkchg.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
