@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:0,RTSH 1
-http://79.106.48.2:3333/live/rtsh_1testmob_pp2/playlist.m3u8
+http://171.22.150.202:4030/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:0,RTSH 2
-http://79.106.48.2:3333/live/rtsh_2mob/playlist.m3u8
+http://51.178.89.160:4030/live/rtsh_2mob/playlist.m3u8
 #EXTINF:0,RTSH 3
-http://79.106.48.2:3333/live/rtsh3mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh3mob/playlist.m3u8
 #EXTINF:-1,RTSH Plus
-http://79.106.48.2:3333/live/rtsh_plus_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Shqip
-http://79.106.48.2:3333/live/rtsh_shqip_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_shqip_mob/playlist.m3u8
 #EXTINF:0,RTSH SAT
-http://79.106.48.2:3333/live/rtsh_sat_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
-http://79.106.48.2:3333/live/rtsh_sport_mob11/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_sport_mob11/playlist.m3u8
 #EXTINF:0,RTSH Korca
-http://79.106.48.2:3333/live/rtsh_korca_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_korca_mob/playlist.m3u8
 #EXTINF:0,RTSH Muzike
-http://79.106.48.2:3333/live/rtsh_muzike_mob/playlist.m3u8
-#EXTINF:0,RTSH 24
-http://79.106.48.2:3333/live/rtsh_24_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_muzike_mob/playlist.m3u8
+#EXTINF:0,RTSH 24 
+http://51.195.88.12:4030/live/rtsh_24_mob/playlist.m3u8
 #EXTINF:0,RTSH Femije 
-http://79.106.48.2:3333/live/rtsh_femije_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_femije_mob/playlist.m3u8
 #EXTINF:0,RTSH Shkolle
-http://79.106.48.2:3333/live/rtsh_shkolle_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_shkolle_mob/playlist.m3u8
 #EXTINF:0,RTSH Film 
-http://79.106.48.2:3333/live/rtsh_film_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_film_mob/playlist.m3u8
 #EXTINF:0,RTSH Kuvendi
-http://79.106.48.2:3333/live/rtsh_kuvendi_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_kuvendi_mob/playlist.m3u8
 #EXTINF:0,RTSH Gjirokastra
-http://79.106.48.2:3333/live/rtsh_gjirokastra_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_gjirokastra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Kukesi
-http://79.106.48.2:3333/live/rtsh_kukesi_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_kukesi_mob/playlist.m3u8
 #EXTINF:-1,RTSH Shkodra
-http://51.210.0.169:4030/live/rtsh_shkodra_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_shkodra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
-http://79.106.48.2:3333/live/rtsh_agro_mob/playlist.m3u8
+http://51.195.88.12:4030/live/rtsh_agro_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://79.137.66.111:80/elroditv_240p/index.m3u8
-#EXTINF:-1,Adria Net
-http://79.106.48.2:3333/live/adriamed/playlist.m3u8
+#EXTINF:-1,Adria Med
+http://51.195.88.12:4030/live/adriamed/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:0,ORA
@@ -91,29 +91,29 @@ https://cast.topradio.al/radio/8310/radio.mp3?
 #EXTINF:0,Sophie Caffe Radio
 http://104.128.234.228:8000/.mp3
 #EXTINF:0,Radio Tirana 1
-http://79.106.48.2:3333/live/radio_tirana_1/playlist.m3u8
+http://51.195.88.12:4030/live/radio_tirana_1/playlist.m3u8
 #EXTINF:0,Radio Tirana 2
-http://79.106.48.2:3333/live/radio_tirana_2/playlist.m3u8
+http://51.195.88.12:4030/live/radio_tirana_2/playlist.m3u8
 #EXTINF:0,Radio Tirana 3
-http://79.106.48.2:3333/live/radio_3/playlist.m3u8
+http://51.195.88.12:4030/live/radio_3/playlist.m3u8
 #EXTINF:0,Radio Tirana International
-http://79.106.48.2:3333/live/radio_tirana_internacional/playlist.m3u8
+http://51.195.88.12:4030/live/radio_tirana_internacional/playlist.m3u8
 #EXTINF:0,Radio Tirana Klasik
-http://79.106.48.2:3333/live/radio_tirana_klasik/playlist.m3u8
+http://51.195.88.12:4030/live/radio_tirana_klasik/playlist.m3u8
 #EXTINF:0,Radio Tirana Jazz
-http://79.106.48.2:3333/live/radio_tirana_jazz/playlist.m3u8
+http://51.195.88.12:4030/live/radio_tirana_jazz/playlist.m3u8
 #EXTINF:0,Radio Tirana Fëmijë
-http://79.106.48.2:3333/live/radio_tirana_femije/playlist.m3u8
+http://51.195.88.12:4030/live/radio_tirana_femije/playlist.m3u8
 #EXTINF:0,Radio Gjirokastra
-http://79.106.48.2:3333/live/radio_gjirokastra/playlist.m3u8
+http://51.195.88.12:4030/live/radio_gjirokastra/playlist.m3u8
 #EXTINF:0,Radio Tirana Muzike
-http://79.106.48.2:3333/live/radio_muzike/playlist.m3u8
+http://51.195.88.12:4030/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Korca
-http://79.106.48.2:3333/live/radio_korca/playlist.m3u8
+http://51.195.88.12:4030/live/radio_korca/playlist.m3u8
 #EXTINF:0,Radio Kukesi
-http://79.106.48.2:3333/live/radio_kukesi/playlist.m3u8
+http://51.195.88.12:4030/live/radio_kukesi/playlist.m3u8
 #EXTINF:0,Radio Shkodra
-http://79.106.48.2:3333/live/radio_shkodra/playlist.m3u8
+http://51.195.88.12:40303/live/radio_shkodra/playlist.m3u8
 #EXTINF:0,Radio Vala Rinore Vlore
 https://ca3ssl.rcast.net/stream/61253.mp3
 #EXTINF:0,Vienna Party Mix
