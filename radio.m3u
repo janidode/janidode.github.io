@@ -50,7 +50,7 @@ https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 http://79.106.48.2:4040/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:0,REPORT TV
 https://reportstream.duckdns.org/hls/stream.m3u8
-#EXTINF:0,TEMA TV
+#EXTINF:0,MCN TV
 http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,SOT 7
 http://93.188.164.35:1935/live/sot7/playlist.m3u8
