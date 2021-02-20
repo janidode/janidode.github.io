@@ -58,6 +58,8 @@ http://79.106.48.2:3333/live/premium/playlist.m3u8
 http://27.shqiptv.org/channel7/channel7/index.m3u8
 #EXTINF:0,Korca Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:0,Apollon TV
+http://185.80.224.14:99/Apollon-WEB/video.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
