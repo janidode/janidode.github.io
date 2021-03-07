@@ -168,8 +168,6 @@ http://144.91.101.136/radio/8060/radio.mp3
 http://radioeurostar.al:9000/;
 #EXTINF:0,CLUB FM KOSOVA
 https://cp1.sednastream.com/proxy/clubfmkosova?mp=%2F%3Bstream.mp3&_=1
-#EXTINF:0,MCN Radio
-http://149.202.220.47:8888/mcnradio.pls
 #EXTINF:0,R101
 http://icecast.unitedradio.it/r101
 #EXTINF:0,105 Miami
@@ -210,8 +208,6 @@ https://live.topgold.al/topgold
 https://live.top-media.al/mmr
 #EXTINF:0,IN Radio
 http://80.90.86.194:1935/live/inradio/playlist.m3u8
-#EXTINF:0,Ora News Radio
-http://51.195.88.12:4050/live/radioora/playlist.m3u8
 #EXTINF:0,Syri Radio
 http://79.106.71.178:1935/syri/radio/playlist.m3u8
 #EXTINF:0,Radio Lezha
