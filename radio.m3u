@@ -223,7 +223,7 @@ http://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-w
 #EXTINF:0,Rix FM Fresh
 http://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553144
 #EXTINF:0,Radiotravel 104.6 Mhz
-http://cp1.sednastream.com:8050/stream?ver=455210
+http://84.16.241.205:8010/stream
 #EXTINF:0,MC2
 https://edge.singsingmusic.net/MC2.mp3
 #EXTINF:0,Tirana Jazz Radio
