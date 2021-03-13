@@ -50,14 +50,10 @@ https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 https://tv.syri.net/syrilive/webtv/chunks.m3u8
 #EXTINF:0,REPORT TV
 https://reportstream.duckdns.org/hls/stream.m3u8
-#EXTINF:0,MCN TV
-http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
 http://79.106.48.2:3333/live/premium/playlist.m3u8
-#EXTINF:0,Channel 7
-http://27.shqiptv.org/channel7/channel7/index.m3u8
 #EXTINF:0,Korca Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:0,Apollon TV
