@@ -17,6 +17,8 @@
 }
 </script>
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+
   <script async custom-element="amp-analytics"
     src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <link rel="canonical" href="https://janidode.info/index.html">
@@ -75,6 +77,32 @@
   <article>
     <h2>Prof.Dr. JANI DODE</h2>
     <p> <amp-img src="https://janidode.info/photo.png" alt="JANI DODE"  height="500" width="500"></amp-img> </p>
+	
+	
+	<amp-sidebar id="sidebar-left"
+  class="sample-sidebar"
+  layout="nodisplay"
+  side="left">
+  <h3>Sidebar</h3>
+  <button on="tap:sidebar-left.close">Close sidebar</button>
+  <nav toolbar="(min-width: 784px)"
+    toolbar-target="target-element-left">
+    <ul>
+      <li>Nav item 1</li>
+      <li>Nav item 2</li>
+    </ul>
+  </nav>
+  <ul>
+    <li>Nav item 3</li>
+    <li>Nav item 4</li>
+  </ul>
+</amp-sidebar>
+<button on="tap:sidebar-left.toggle">Toggle sidebar</button>
+<div id="target-element-left">
+</div>
+
+	
+	
     <p>
      <div>
   <li>JANI THOMA DODE</li>
