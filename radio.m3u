@@ -1,33 +1,33 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:0,RTSH 1
-http://79.106.73.244:4040/live/rtsh111/playlist.m3u8
+http://51.91.157.19:4030/hls/rtshhd_low/index.m3u8
 #EXTINF:0,RTSH 2
-https://tvlive.rtsh.dev/out/u/105_1.m3u8
+http://51.91.154.19:4030/hls/rtsh2hd1/index.m3u8
 #EXTINF:0,RTSH 3
-https://tvlive.rtsh.dev/out/u/107_1.m3u8
+http://51.91.154.19:4030/hls/rtsh3hd1/index.m3u8
 #EXTINF:-1,RTSH Plus
-https://tvlive.rtsh.dev/out/u/73_1.m3u8
+http://51.91.154.19:4030/hls/rtshplus_240p/index.m3u8
 #EXTINF:0,RTSH Shqip
 http://79.137.66.111:80/rtshshqip1/index.m3u8
 #EXTINF:0,RTSH SAT
 http://51.195.88.12:4030/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
-https://tvlive.rtsh.dev/out/u/27_2.m3u8
+http://51.91.154.19:4030/hls/rtshsport1/index.m3u8
 #EXTINF:0,RTSH Korca
-https://tvlive.rtsh.dev/out/u/53_1.m3u8
+http://tvlive.rtsh.dev/out/u/53_1.m3u8
 #EXTINF:0,RTSH Muzike
-http://79.137.66.111:80/rtshmsicweb/index.m3u8
+http://51.91.154.19:4030/hls/rtshmsciweb/index.m3u8
 #EXTINF:0,RTSH 24 
-http://79.137.66.111:80/rtsh24/index.m3u8
+http://51.91.154.19:4030/hls/rtsh24/index.m3u8
 #EXTINF:0,RTSH Femije 
-https://tvlive.rtsh.dev/out/u/77_1.m3u8
+http://51.91.154.19:4030/hls/rtshfemije_240p/index.m3u8
 #EXTINF:0,RTSH Shkolle
-https://tvlive.rtsh.dev/out/u/97_1.m3u8
+http://tvlive.rtsh.dev/out/u/97_1.m3u8
 #EXTINF:0,RTSH Film 
-https://tvlive.rtsh.dev/out/u/101_1.m3u8
+http://51.91.154.19:4030/hls/rtshfilm1/index.m3u8
 #EXTINF:0,RTSH Kuvendi
-http://79.137.66.111:80/rtshkuvendweb/index.m3u8
+http://51.91.154.19:4030/hls/rtshkuvendweb/index.m3u8
 #EXTINF:0,RTSH Gjirokastra
 https://tvlive.rtsh.dev/out/u/56_1.m3u8
 #EXTINF:-1,RTSH Kukesi
