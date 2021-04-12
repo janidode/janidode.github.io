@@ -31,7 +31,7 @@ http://51.91.154.19:4030/hls/rtshkuvendweb/index.m3u8
 #EXTINF:0,RTSH Gjirokastra
 https://tvlive.rtsh.dev/out/u/56_1.m3u8
 #EXTINF:-1,RTSH Kukesi
-https://tvlive.rtsh.dev/out/u/89_1.m3u8
+https://tvlive.rtsh.dev/out/u/20_2.m3u8
 #EXTINF:-1,RTSH Shkodra
 http://51.195.88.12:4030/live/rtsh_shkodra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
