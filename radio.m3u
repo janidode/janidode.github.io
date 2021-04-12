@@ -15,7 +15,7 @@ http://51.195.88.12:4030/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
 http://51.91.154.19:4030/hls/rtshsport1/index.m3u8
 #EXTINF:0,RTSH Korca
-http://tvlive.rtsh.dev/out/u/53_1.m3u8
+https://tvlive.rtsh.dev/out/u/rtshkorca.m3u8
 #EXTINF:0,RTSH Muzike
 http://51.91.154.19:4030/hls/rtshmsciweb/index.m3u8
 #EXTINF:0,RTSH 24 
