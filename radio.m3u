@@ -1,41 +1,41 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:0,RTSH 1
-http://51.91.157.19:4030/hls/rtshhd_low/index.m3u8
+https://tvlive.rtsh.dev/out/u/8_2.m3u8
 #EXTINF:0,RTSH 2
-http://51.91.154.19:4030/hls/rtsh2hd1/index.m3u8
+https://tvlive.rtsh.dev/out/u/61_2.m3u8
 #EXTINF:0,RTSH 3
-http://51.91.154.19:4030/hls/rtsh3hd1/index.m3u8
+https://tvlive.rtsh.dev/out/u/62_2.m3u8
 #EXTINF:-1,RTSH Plus
-http://51.91.154.19:4030/hls/rtshplus_240p/index.m3u8
+https://tvlive.rtsh.dev/out/u/49_2.m3u8
 #EXTINF:0,RTSH Shqip
-http://79.137.66.111:80/rtshshqip1/index.m3u8
+https://tvlive.rtsh.dev/out/u/59_1.m3u8
 #EXTINF:0,RTSH SAT
-http://51.195.88.12:4030/live/rtsh_sat_mob/playlist.m3u8
+http://79.106.48.2:4578/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
-http://51.91.154.19:4030/hls/rtshsport1/index.m3u8
+https://tvlive.rtsh.dev/out/u/41_1.m3u8
 #EXTINF:0,RTSH Korca
-https://tvlive.rtsh.dev/out/u/rtshkorca.m3u8
+https://tvlive.rtsh.dev/out/u/26_2.m3u8
 #EXTINF:0,RTSH Muzike
-https://tvlive.rtsh.dev/out/u/rtshmuzike.m3u8
+https://tvlive.rtsh.dev/out/u/54_2.m3u8
 #EXTINF:0,RTSH 24 
-http://51.91.154.19:4030/hls/rtsh24/index.m3u8
+https://tvlive.rtsh.dev/out/u/52_2.m3u8
 #EXTINF:0,RTSH Femije 
 https://tvlive.rtsh.dev/out/u/47_1.m3u8
 #EXTINF:0,RTSH Shkolle
 https://tvlive.rtsh.dev/out/u/10_2.m3u8
 #EXTINF:0,RTSH Film 
-http://51.91.154.19:4030/hls/rtshfilm1/index.m3u8
+https://tvlive.rtsh.dev/out/u/56_2.m3u8
 #EXTINF:0,RTSH Kuvendi
-http://51.91.154.19:4030/hls/rtshkuvendweb/index.m3u8
+https://tvlive.rtsh.dev/out/u/38_2.m3u8
 #EXTINF:0,RTSH Gjirokastra
-https://tvlive.rtsh.dev/out/u/56_1.m3u8
+https://tvlive.rtsh.dev/out/u/24_1.m3u8
 #EXTINF:-1,RTSH Kukesi
 https://tvlive.rtsh.dev/out/u/20_2.m3u8
 #EXTINF:-1,RTSH Shkodra
-http://51.195.88.12:4030/live/rtsh_shkodra_mob/playlist.m3u8
+http://79.106.48.2:4578/live/rtsh_shkodra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
-http://51.195.88.12:4030/live/rtsh_agro_mob/playlist.m3u8
+https://tvlive.rtsh.dev/out/u/12_2.m3u8
 #EXTINF:-1,Elrodi TV
 http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Med
