@@ -61,7 +61,7 @@ http://79.106.48.2:3333/live/premium/playlist.m3u8
 #EXTINF:0,Korca Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:0,Apollon TV
-http://185.80.224.14:99/Apollon-WEB/video.m3u8
+https://live.apollon.tv/Apollon-WEB/video.m3u8
 #EXTINF:0,Shijak TV
 https://6034d3b51e745.streamlock.net/live/shijaktv/chunklist_w1518406546.m3u8
 #EXTINF:0,Neser TV
