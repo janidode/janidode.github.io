@@ -45,9 +45,9 @@ http://171.22.150.202:5050/live/clubtvpp1/playlist.m3u8
 #EXTINF:0,A2 CNN
 http://51.178.89.160:5080/live/a2pp2/playlist.m3u8
 #EXTINF:0,ORA NEWS
-https://tv.oranews.tv/live/oranews/index.m3u8
+https://live2.mediadesk.al/oranews.php
 #EXTINF:0,ORA
-https://tv.oranews.tv/live/ora/index.m3u8
+https://live1.mediadesk.al/oratv.php
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:0,Syri TV
