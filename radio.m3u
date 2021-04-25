@@ -87,7 +87,7 @@ http://51.195.88.12:4050/live/klanmusicpp2/playlist.m3u8
 #EXTINF:0,INTV
 http://51.195.88.12:4050/live/intvpp1/playlist.m3u8
 #EXTINF:0,BBF TV
-http://79.106.73.244:3030/live/bbfottpp1/playlist.m3u8
+http://51.210.0.169:4030/live/bbfottpp1/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
