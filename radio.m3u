@@ -41,7 +41,7 @@ http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Med
 http://51.195.88.12:4030/live/adriamed/playlist.m3u8
 #EXTINF:0,CLUB TV
-http://171.22.150.202:5050/live/clubtvpp1/playlist.m3u8
+http://51.91.154.19:4030/live/clubtvpp1/playlist.m3u8
 #EXTINF:0,A2 CNN
 http://51.178.89.160:5080/live/a2pp2/playlist.m3u8
 #EXTINF:0,ORA NEWS
