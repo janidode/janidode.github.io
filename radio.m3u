@@ -49,7 +49,7 @@ https://live3.mediadesk.al/oranews.php
 #EXTINF:0,ORA
 https://live1.mediadesk.al/oratv.php
 #EXTINF:0,NEWS 24
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8
+http://79.106.90.114:3030/live/news24mobpp3/playlist.m3u8
 #EXTINF:0,Syri TV
 https://tv.syri.net/syrilive/webtv/chunks.m3u8
 #EXTINF:0,REPORT TV
