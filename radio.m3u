@@ -67,27 +67,27 @@ https://6034d3b51e745.streamlock.net/live/shijaktv/chunklist_w1518406546.m3u8
 #EXTINF:0,Neser TV
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:0,KLAN
-http://51.195.88.12:4050/live/klanhdmobpp3/playlist.m3u8
+http://79.106.90.123:5000/live/klanhdmobpp3/playlist.m3u8
 #EXTINF:0,KLAN Plus
-http://51.195.88.12:4050/live/klanplusmobpp3/playlist.m3u8
+http://79.106.90.123:5000/live/klanplusmobpp3/playlist.m3u8
 #EXTINF:0,KLAN News
-http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
+http://79.106.90.123:5000/live/klannewsmobpp3/playlist.m3u8
 #EXTINF:0,ABC News
-http://51.195.88.12:4050/live/abcnewsmobpp3/playlist.m3u8
+http://79.106.90.123:5000/live/abcnewsmobpp3/playlist.m3u8
 #EXTINF:0,EURONEWS
-http://51.195.88.12:4050/live/euronewsmobpp3/playlist.m3u8
+http://79.106.90.123:5000/live/euronewsmobpp3/playlist.m3u8
 #EXTINF:0,SCAN TV
-http://51.195.88.12:4050/live/scanmobpp3/playlist.m3u8
+http://79.106.90.123:5000/live/scanmobpp3/playlist.m3u8
 #EXTINF:0,FAX NEWS
-http://51.195.88.12:4050/live/faxnewsmobpp1/playlist.m3u8
+http://79.106.90.123:5000/live/faxnewsmobpp1/playlist.m3u8
 #EXTINF:0,MCN
-http://51.195.88.12:4050/live/mcnpp1/playlist.m3u8
+http://79.106.90.123:5000/live/mcnpp1/playlist.m3u8
 #EXTINF:0,Klan Music
-http://51.195.88.12:4050/live/klanmusicpp2/playlist.m3u8
+http://79.106.90.123:5000/live/klanmusicpp2/playlist.m3u8
 #EXTINF:0,INTV
-http://51.195.88.12:4050/live/intvpp1/playlist.m3u8
+http://79.106.90.123:5000/live/intvpp1/playlist.m3u8
 #EXTINF:0,BBF TV
-http://51.195.88.12:4050/live/bbfottpp1/playlist.m3u8
+http://79.106.90.123:5000/live/bbfottpp1/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
