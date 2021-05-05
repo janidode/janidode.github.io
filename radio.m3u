@@ -258,3 +258,5 @@ http://5.196.97.98:8000/;stream.mp3
 http://stream.dzenarika.net:8086/;
 #EXTINF:0,Radio SOL
 https://az2.sednastream.com/radio/8020/radio.mp3
+#EXTINF:0,Radio Hasi Thate
+http://live.hasi-thate.com:8000/listen.pls
