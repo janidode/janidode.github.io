@@ -260,3 +260,9 @@ http://stream.dzenarika.net:8086/;
 https://az2.sednastream.com/radio/8020/radio.mp3
 #EXTINF:0,Radio Hasi Thate
 http://live.hasi-thate.com:8000/listen.pls
+#EXTINF:0,Play Radio
+http://stream.radiojar.com/sx7zrht0pg0uv
+#EXTINF:0,Play Radio Club
+http://stream.radiojar.com/kqv4gr3p6s8uv
+#EXTINF:0,Play Radio The Oldies
+http://stream.radiojar.com/a7nbd5pscv8uv
