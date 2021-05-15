@@ -40,10 +40,6 @@ https://tvlive.rtsh.dev/out/u/12_2.m3u8
 http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Med
 http://51.195.88.12:4030/live/adriamed/playlist.m3u8
-#EXTINF:0,CLUB TV
-http://51.91.154.19:4030/live/clubtvpp1/playlist.m3u8
-#EXTINF:0,A2 CNN
-http://51.210.0.169:4030/live/a2pp2/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://live3.mediadesk.al/oranews.php
 #EXTINF:0,ORA
@@ -66,28 +62,6 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 https://6034d3b51e745.streamlock.net/live/shijaktv/chunklist_w1518406546.m3u8
 #EXTINF:0,Neser TV
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
-#EXTINF:0,KLAN
-http://79.106.90.123:5000/live/klanhdmobpp3/playlist.m3u8
-#EXTINF:0,KLAN Plus
-http://79.106.90.123:5000/live/klanplusmobpp3/playlist.m3u8
-#EXTINF:0,KLAN News
-http://79.106.90.123:5000/live/klannewsmobpp3/playlist.m3u8
-#EXTINF:0,ABC News
-http://79.106.90.123:5000/live/abcnewsmobpp3/playlist.m3u8
-#EXTINF:0,EURONEWS
-http://79.106.90.123:5000/live/euronewsmobpp3/playlist.m3u8
-#EXTINF:0,SCAN TV
-http://79.106.90.123:5000/live/scanmobpp3/playlist.m3u8
-#EXTINF:0,FAX NEWS
-http://79.106.90.123:5000/live/faxnewsmobpp1/playlist.m3u8
-#EXTINF:0,MCN
-http://79.106.90.123:5000/live/mcnpp1/playlist.m3u8
-#EXTINF:0,Klan Music
-http://79.106.90.123:5000/live/klanmusicpp2/playlist.m3u8
-#EXTINF:0,INTV
-http://79.106.90.123:5000/live/intvpp1/playlist.m3u8
-#EXTINF:0,BBF TV
-http://79.106.90.123:5000/live/bbfottpp1/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:0,Hit Music Channel
@@ -230,8 +204,6 @@ http://80.90.86.194:1935/live/inradio/playlist.m3u8
 http://79.106.71.178:1935/syri/radio/playlist.m3u8
 #EXTINF:0,ORA Radio
 http://79.106.90.114:3030/live/radioora/playlist.m3u8
-#EXTINF:0,Klan Radio
-http://51.91.154.19:4030/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,Big FM
 http://46.252.33.58:9310/;stream.mp3?_=1
 #EXTINF:0,VOA
