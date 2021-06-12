@@ -81,7 +81,7 @@ https://live.top-media.al/tar
 #EXTINF:0,Club FM 100.4 FM
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
 #EXTINF:0,ENERGY Radio Albania
-http://ice31.securenetsystems.net:80/AL09
+https://ice31.securenetsystems.net:80/AL09
 #EXTINF:0,Radio DJ
 http://185.32.20.10:6500/
 #EXTINF:0,Radio One
@@ -89,45 +89,45 @@ https://cp1.sednastream.com/proxy/radioone94?mp=/stream
 #EXTINF:0,Sophie Caffe Radio
 http://104.128.234.228:8000/.mp3
 #EXTINF:0,Radio Tirana 1
-http://79.106.48.2:4578/live/radio_tirana_1/playlist.m3u8
+https://radiolive.rtsh.dev/radiotirana1
 #EXTINF:0,Radio Tirana 2
-http://79.106.48.2:4578/live/radio_tirana_2/playlist.m3u8
+https://radiolive.rtsh.dev/radiotirana2
 #EXTINF:0,Radio Tirana 3
-http://79.106.48.2:4578/live/radio_3/playlist.m3u8
+https://radiolive.rtsh.dev/radiotirana3
 #EXTINF:0,Radio Tirana International
-http://79.106.48.2:4578/live/radio_tirana_internacional/playlist.m3u8
+https://radiolive.rtsh.dev/rti
 #EXTINF:0,Radio Tirana Klasik
-http://79.106.48.2:4578/live/radio_tirana_klasik/playlist.m3u8
+https://radiolive.rtsh.dev/radiotiranaklasik1
 #EXTINF:0,Radio Tirana Jazz
-http://79.106.48.2:4578/live/radio_tirana_jazz/playlist.m3u8
+https://radiolive.rtsh.dev/radiotiranajazz
 #EXTINF:0,Radio Tirana Fëmijë
-http://79.106.48.2:4578/live/radio_tirana_femije/playlist.m3u8
+https://radiolive.rtsh.dev/radiotiranafemije
 #EXTINF:0,Radio Tirana Muzikë
 http://79.106.48.2:4578/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Gjirokastra
-http://79.106.48.2:4578/live/radio_gjirokastra/playlist.m3u8
+https://radiolive.rtsh.dev/radiotiranagjirokaster
 #EXTINF:0,Radio Korça
-http://79.106.48.2:4578/live/radio_korca/playlist.m3u8
+https://radiolive.rtsh.dev/radiokorca
 #EXTINF:0,Radio Kukësi
-http://79.106.48.2:4578/live/radio_kukesi/playlist.m3u8
+https://radiolive.rtsh.dev/radiokukesi
 #EXTINF:0,Radio Shkodra
-http://79.106.48.2:4578/live/radio_shkodra/playlist.m3u8
+https://radiolive.rtsh.dev/radioshkodra
 #EXTINF:0,Radio Vala Rinore Vlorë
 https://ca3ssl.rcast.net/stream/61253.mp3
 #EXTINF:0,Sunshine House
 https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq
 #EXTINF:0,Sunshine EDM
 https://sunshinelive.hoerradar.de/sunshinelive-edm-mp3-hq
-#EXTINF:0,DanceFM 89.5
-http://edge126.rdsnet.ro:84/profm/dancefm.mp3
+#EXTINF:0,Dance FM 89.5
+https://edge126.rcs-rds.ro/profm/dancefm.mp3
 #EXTINF:0,Best Pro Radio
 https://az1.sednastream.com/radio/8000/Live?1582297952
 #EXTINF:0,Maretimo Funky Radio
-http://stream.maretimo-funky-radio.com/funkyradio.mp3
+https://stream.maretimo-funky-radio.com/funkyradio.mp3
 #EXTINF:0,Maretimo House Radio
-http://radio.maretimo-records.com/house.mp3
+https://radio.maretimo-records.com/house.mp3
 #EXTINF:0,Maretimo Lounge Radio
-http://radio.maretimo-records.com/lounge.mp3
+https://radio.maretimo-records.com/lounge.mp3
 #EXTINF:0,Smooth Grooving
 http://64.95.243.43:8020/stream.ogg
 #EXTINF:0,Super Fly
