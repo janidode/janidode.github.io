@@ -3,7 +3,7 @@
 #EXTINF:0,RTSH 1
 https://tvlive.rtsh.dev/live/rtsh_1mob_pp1/playlist.m3u8
 #EXTINF:0,RTSH 2
-ttps://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8
+https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8
 #EXTINF:0,RTSH 3
 https://tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8
 #EXTINF:-1,RTSH Plus
@@ -15,7 +15,7 @@ http://79.106.48.2:4578/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
 https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
 #EXTINF:0,RTSH Korça
- https://tvlive.rtsh.dev/live/rtsh_korca_ott_p1/playlist.m3u8
+https://tvlive.rtsh.dev/live/rtsh_korca_ott_p1/playlist.m3u8
 #EXTINF:0,RTSH Muzikë
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p1/playlist.m3u8
 #EXTINF:0,RTSH 24 
