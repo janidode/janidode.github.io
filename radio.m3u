@@ -1,41 +1,41 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:0,RTSH 1
-https://tvlive.rtsh.dev/out/u/8_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_1mob_pp1/playlist.m3u8
 #EXTINF:0,RTSH 2
-https://tvlive.rtsh.dev/out/u/61_2.m3u8
+ttps://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8
 #EXTINF:0,RTSH 3
-https://tvlive.rtsh.dev/out/u/62_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8
 #EXTINF:-1,RTSH Plus
-https://tvlive.rtsh.dev/out/u/49_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
 #EXTINF:0,RTSH Shqip
-https://tvlive.rtsh.dev/out/u/59_1.m3u8
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
 #EXTINF:0,RTSH SAT
 http://79.106.48.2:4578/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
-https://tvlive.rtsh.dev/out/u/41_1.m3u8
+https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
 #EXTINF:0,RTSH Korça
-https://tvlive.rtsh.dev/out/u/26_2.m3u8
+ https://tvlive.rtsh.dev/live/rtsh_korca_ott_p1/playlist.m3u8
 #EXTINF:0,RTSH Muzikë
-https://tvlive.rtsh.dev/out/u/54_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p1/playlist.m3u8
 #EXTINF:0,RTSH 24 
-https://tvlive.rtsh.dev/out/u/52_2.m3u8
-#EXTINF:0,RTSH Femijë
-https://tvlive.rtsh.dev/out/u/47_1.m3u8
+https://tvlive.rtsh.dev/live/rtsh_24_ott_p2/playlist.m3u8
+#EXTINF:0,RTSH Femijë 
+https://tvlive.rtsh.dev/live/rtsh_femije_ott_p1/playlist.m3u8
 #EXTINF:0,RTSH Shkollë
-https://tvlive.rtsh.dev/out/u/10_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_shkolle_ott_p2/playlist.m3u8
 #EXTINF:0,RTSH Film 
-https://tvlive.rtsh.dev/out/u/56_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_film_ott_p2/playlist.m3u8
 #EXTINF:0,RTSH Kuvend
-https://tvlive.rtsh.dev/out/u/38_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8
 #EXTINF:0,RTSH Gjirokastra
-https://tvlive.rtsh.dev/out/u/24_1.m3u8
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott_p1/playlist.m3u8
 #EXTINF:-1,RTSH Kukësi
-https://tvlive.rtsh.dev/out/u/20_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
 #EXTINF:-1,RTSH Shkodra
 http://79.106.48.2:4578/live/rtsh_shkodra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
-https://tvlive.rtsh.dev/out/u/12_2.m3u8
+https://tvlive.rtsh.dev/live/rtsh_agro_ott_p1/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Med
