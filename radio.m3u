@@ -14,15 +14,15 @@ https://tvlive.rtsh.dev/out/u/59_1.m3u8
 http://79.106.48.2:4578/live/rtsh_sat_mob/playlist.m3u8
 #EXTINF:0,RTSH Sport
 https://tvlive.rtsh.dev/out/u/41_1.m3u8
-#EXTINF:0,RTSH Korca
+#EXTINF:0,RTSH Korça
 https://tvlive.rtsh.dev/out/u/26_2.m3u8
-#EXTINF:0,RTSH Muzike
+#EXTINF:0,RTSH Muzikë
 https://tvlive.rtsh.dev/out/u/54_2.m3u8
 #EXTINF:0,RTSH 24 
 https://tvlive.rtsh.dev/out/u/52_2.m3u8
-#EXTINF:0,RTSH Femije 
+#EXTINF:0,RTSH Femijë
 https://tvlive.rtsh.dev/out/u/47_1.m3u8
-#EXTINF:0,RTSH Shkolle
+#EXTINF:0,RTSH Shkollë
 https://tvlive.rtsh.dev/out/u/10_2.m3u8
 #EXTINF:0,RTSH Film 
 https://tvlive.rtsh.dev/out/u/56_2.m3u8
@@ -30,7 +30,7 @@ https://tvlive.rtsh.dev/out/u/56_2.m3u8
 https://tvlive.rtsh.dev/out/u/38_2.m3u8
 #EXTINF:0,RTSH Gjirokastra
 https://tvlive.rtsh.dev/out/u/24_1.m3u8
-#EXTINF:-1,RTSH Kukesi
+#EXTINF:-1,RTSH Kukësi
 https://tvlive.rtsh.dev/out/u/20_2.m3u8
 #EXTINF:-1,RTSH Shkodra
 http://79.106.48.2:4578/live/rtsh_shkodra_mob/playlist.m3u8
@@ -54,13 +54,13 @@ https://reportstream.duckdns.org/hls/stream.m3u8
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
 http://79.106.48.2:3333/live/premium/playlist.m3u8
-#EXTINF:0,Korca Plus
+#EXTINF:0,Korça Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:0,Apollon TV
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:0,Shijak TV
 https://6034d3b51e745.streamlock.net/live/shijaktv/chunklist_w1518406546.m3u8
-#EXTINF:0,Neser TV
+#EXTINF:0,Nesër TV
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
@@ -102,17 +102,17 @@ http://79.106.48.2:4578/live/radio_tirana_klasik/playlist.m3u8
 http://79.106.48.2:4578/live/radio_tirana_jazz/playlist.m3u8
 #EXTINF:0,Radio Tirana Fëmijë
 http://79.106.48.2:4578/live/radio_tirana_femije/playlist.m3u8
+#EXTINF:0,Radio Tirana Muzikë
+http://79.106.48.2:4578/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Gjirokastra
 http://79.106.48.2:4578/live/radio_gjirokastra/playlist.m3u8
-#EXTINF:0,Radio Tirana Muzike
-http://79.106.48.2:4578/live/radio_muzike/playlist.m3u8
-#EXTINF:0,Radio Korca
+#EXTINF:0,Radio Korça
 http://79.106.48.2:4578/live/radio_korca/playlist.m3u8
-#EXTINF:0,Radio Kukesi
+#EXTINF:0,Radio Kukësi
 http://79.106.48.2:4578/live/radio_kukesi/playlist.m3u8
 #EXTINF:0,Radio Shkodra
 http://79.106.48.2:4578/live/radio_shkodra/playlist.m3u8
-#EXTINF:0,Radio Vala Rinore Vlore
+#EXTINF:0,Radio Vala Rinore Vlorë
 https://ca3ssl.rcast.net/stream/61253.mp3
 #EXTINF:0,Sunshine House
 https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq
