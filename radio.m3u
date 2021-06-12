@@ -200,8 +200,6 @@ https://icy.unitedradio.it/rmcweb021
 https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
 https://live.top-media.al/mmr
-#EXTINF:0,IN Radio
-http://80.90.86.194:1935/live/inradio/playlist.m3u8
 #EXTINF:0,Syri Radio
 http://79.106.71.178:1935/syri/radio/playlist.m3u8
 #EXTINF:0,ORA Radio
