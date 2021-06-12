@@ -128,8 +128,10 @@ https://stream.maretimo-funky-radio.com/funkyradio.mp3
 https://radio.maretimo-records.com/house.mp3
 #EXTINF:0,Maretimo Lounge Radio
 https://radio.maretimo-records.com/lounge.mp3
+#EXTINF:0,Maretimo Chill Radio
+https://s35.derstream.net/chillradio.mp3
 #EXTINF:0,Smooth Grooving
-http://64.95.243.43:8020/stream.ogg
+https://sgr.lucasmultimedia.com/stream.ogg
 #EXTINF:0,Super Fly
 https://stream01.superfly.fm/live128
 #EXTINF:0,Rai Radio Live
