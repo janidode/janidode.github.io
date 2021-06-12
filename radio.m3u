@@ -163,39 +163,39 @@ http://radioeurostar.al:9000/;
 #EXTINF:0,CLUB FM KOSOVA
 https://cp1.sednastream.com/proxy/clubfmkosova?mp=%2F%3Bstream.mp3&_=1
 #EXTINF:0,R101
-http://icecast.unitedradio.it/r101
+https://icecast.unitedradio.it/r101_mp3
 #EXTINF:0,105 Miami
 https://icy.unitedradio.it/105Miami.mp3
 #EXTINF:0,105 Estate
-http://icecast.unitedradio.it/105Estate.mp3
+https://icecast.unitedradio.it/105Estate.mp3
 #EXTINF:0,105 Hits
-http://icy.unitedradio.it/105Hits.mp3
+https://icy.unitedradio.it/105Hits.mp3
 #EXTINF:0,Radio Monte Carlo VIP Lounge
-http://icy.unitedradio.it/rmcweb020
+https://icy.unitedradio.it/rmcweb020
 #EXTINF:0,Radio Monte Carlo Hits
-http://icy.unitedradio.it/rmcweb001
+https://icy.unitedradio.it/rmcweb001
 #EXTINF:0,Radio Monte Carlo Monte Carlo Nights Story
-http://icy.unitedradio.it/rmcweb012
+https://icy.unitedradio.it/rmcweb012
 #EXTINF:0,Radio Monte Carlo Buddha Bar
-http://icy.unitedradio.it/rmcweb002
+https://icy.unitedradio.it/rmcweb002
 #EXTINF:0,Radio Monte Carlo Disco Funk
-http://icy.unitedradio.it/rmcweb025
+https://icy.unitedradio.it/rmcweb025
 #EXTINF:0,Radio Monte Carlo Cool
-http://icy.unitedradio.it/rmcweb004
+https://icy.unitedradio.it/rmcweb004
 #EXTINF:0,Radio Monte Carlo New Classics
-http://icy.unitedradio.it/rmcweb011
+https://icy.unitedradio.it/rmcweb011
 #EXTINF:0,Radio Monte Carlo Voyage Voyage
-http://icy.unitedradio.it/rmcweb022
+https://icy.unitedradio.it/rmcweb022
 #EXTINF:0,Radio Monte Carlo Marine
-http://icy.unitedradio.it/rmcweb010
+https://icy.unitedradio.it/rmcweb010
 #EXTINF:0,Radio Monte Carlo Next
-http://icy.unitedradio.it/rmcweb019
+https://icy.unitedradio.it/rmcweb019
 #EXTINF:0,Radio Monte Carlo Party
-http://icy.unitedradio.it/rmcweb018
+https://icy.unitedradio.it/rmcweb018
 #EXTINF:0,Radio Monte Carlo Fitness
-http://icy.unitedradio.it/rmcweb023
+https://icy.unitedradio.it/rmcweb023
 #EXTINF:0,Radio Monte Carlo Running
-http://icy.unitedradio.it/rmcweb021
+https://icy.unitedradio.it/rmcweb021
 #EXTINF:0,TOP GOLD
 https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
