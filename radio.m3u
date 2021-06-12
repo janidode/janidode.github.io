@@ -227,9 +227,9 @@ https://player.siradio.al:8443/mix
 #EXTINF:0,Si Radio Rock
 https://player.siradio.al:8443/listenrock
 #EXTINF:0,RIX FM
-http://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553021
+https://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1623503695
 #EXTINF:0,RIX FM Fresh
-http://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553144
+https://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1623503760
 #EXTINF:0,Radiotravel 104.6 Mhz
 http://84.16.241.205:8010/stream
 #EXTINF:0,MC2
