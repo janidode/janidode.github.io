@@ -76,6 +76,10 @@ https://edge214.rcs-rds.ro/V4-1744058-9c4b60da29b8dfeec36d19423d9deadd-133960377
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:0,Folklorit TV
 https://54627d4fc5996.streamlock.net/8144/8144/playlist.m3u8
+#EXTINF:0,ONE 1 Adria
+https://serve-first.folxplay.tv/folx/ch-6/480-WY00KTGD7M.m3u8
+#EXTINF:0,ONE 1 Music Television
+https://serve-first.folxplay.tv/folx/ch-3/360-TX25G3IUSY.m3u8
 #EXTINF:0,RADIO GALATSI
 https://sslstreaming.com:7019/;
 #EXTINF:0,Top Albania Radio
