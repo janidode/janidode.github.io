@@ -219,19 +219,19 @@ https://cp1.sednastream.com/proxy/cityradio?mp=/stream
 #EXTINF:0,Radio Nacional
 https://video-weaver.dus01.hls.ttvnw.net/v1/playlist/Cp4FS4WAe02Pwsilx28sSDFWo6NVeDtI_4gCojcqrCiEtCMwiAGUHu_oHtlH4dmEExlNYdT9R0PVb-4BvZfEXY-9lS8JzwQcO2e7aScz4lqZCtFoM8Dr7xy6T2oeUx1X7PuSI-SB5PSmgtikctONrHeaUHNeSOxg55chO6d5SVZwujWShlR8XKYW-Q3olPv0qH3AGm8M4th1z4dt4Pt3LgY1Q9aJvFqypnKTqyI62U18kriXCmcd5ZgEvmTjB_2gnDB1shpjzC0XwL_7nWGmOslicD_YUcTNE5ROob-5ZNwkMWrGIV_vkX9amesbMjMIbR-Fy436JInq6_tiNgZWT9-lwlBwL1WDmQu7DFg8SY1y-DGnyayRpSLDCirs__ZDCo0bjklp2huEKQ9-UdEJ925RQkme_0izefallN2RLO5F-Z-aqv4SMlarTkLtFG1ejwCpe2sIh0lLvBPhW9HbygVShlvB3C433dAyNVLB_8Ao2pleQGP5yGPEQvszRRktOT-kj75HQTUMzZisENZUnBCW941q1963idQ7dob0yIHhEiZzdPb9Gqvg-AwnGKPESWW08g7cEisB0-WVlckNUG5Ij8sDFzDe2Q-rYd4a96N7AxKiVAgi6b8T_G93RQoU46PTtPR6PiFVMlA7uTh5G-PnFnqUuR8GWBodVe8R3cSgoMPIt_ZAJrWiPx8XQVDG4hIwfj_SBCbu9mgk5WJe2JAw8-vsicHWQonE8OhAkZE5BTuS9iLw5LpildIfa4Y8MUMd-XZMPiGj9XkSbh6N8mUkLJ3-f6nsC1Q2L_n4F8_bOl8vl76ENHMxBbHHsFVBmP1UuhIcfEgZ_eDfLTOoOI3c2IYwHfFlpiREIKZTe6Jp8dEedxwOUmkoyai19oqKTxIQmko_Bc-Qkg0bbOuwcJx_ORoMAm-73uF4LbiZNeL3.m3u8
 #EXTINF:0,Si Radio Fresh
-https://player.siradio.al:8443/listenfresh
+https://player.siradio.al:8443/fresh
 #EXTINF:0,Si Radio House
-https://player.siradio.al:8443/listendeep
+https://player.siradio.al:8443/yourhouse
 #EXTINF:0,Si Radio Smooth
-https://player.siradio.al:8443/listensmooth
+https://player.siradio.al:8443/smooth
 #EXTINF:0,Si Radio Jazz
 https://player.siradio.al:8443/jazz
 #EXTINF:0,Si Radio Gold
 https://player.siradio.al:8443/gold
 #EXTINF:0,Si Radio DJ Artist
-https://player.siradio.al:8443/mix
+https://player.siradio.al:8443/djartist
 #EXTINF:0,Si Radio Rock
-https://player.siradio.al:8443/listenrock
+https://player.siradio.al:8443/rock
 #EXTINF:0,RIX FM
 https://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1623503695
 #EXTINF:0,RIX FM Fresh
