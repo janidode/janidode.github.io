@@ -84,6 +84,10 @@ https://live.top-media.al/tar
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
 #EXTINF:0,ENERGY Radio Albania
 https://ice31.securenetsystems.net:80/AL09
+#EXTINF:0,M2M Hits
+https://ice8.securenetsystems.net/AL07
+#EXTINF:0,M2M Base
+https://ice8.securenetsystems.net/AL08
 #EXTINF:0,Radio DJ
 http://185.32.20.10:6500/
 #EXTINF:0,Radio One
