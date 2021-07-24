@@ -1,45 +1,47 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:0,RTSH 1
-https://tvlive.rtsh.dev/live/rtsh_1mob_pp1/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:0,RTSH 2
-https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_2mob_p2/playlist.m3u8
 #EXTINF:0,RTSH 3
-https://tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh3mobp2/playlist.m3u8
 #EXTINF:-1,RTSH Plus
-https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Shqip
-https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_shqip_mob/playlist.m3u8
 #EXTINF:0,RTSH SAT
-http://79.106.48.2:4578/live/rtsh_sat_mob/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_sat_mob_p2/playlist.m3u8
 #EXTINF:0,RTSH Sport
-https://tvlive.rtsh.dev/live/sport_ott_ppp2/playlist.m3u8
+http://51.91.154.19:2030/live/sport_mob_pp2/playlist.m3u8
 #EXTINF:0,RTSH Korça
-https://tvlive.rtsh.dev/live/rtsh_korca_ott_p1/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_korca_ott_p2/playlist.m3u8
 #EXTINF:0,RTSH Muzikë
-https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p1/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_muzike_ott/playlist.m3u
 #EXTINF:0,RTSH 24 
-https://tvlive.rtsh.dev/live/rtsh_24_ott_p2/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_24_mob_p2/playlist.m3u8
 #EXTINF:0,RTSH Femijë 
-https://tvlive.rtsh.dev/live/rtsh_femije_ott_p1/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_femije_mob/playlist.m3u8
 #EXTINF:0,RTSH Shkollë
-https://tvlive.rtsh.dev/live/rtsh_shkolle_ott_p2/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_shkolle_mob_p2/playlist.m3u8
 #EXTINF:0,RTSH Film 
-https://tvlive.rtsh.dev/live/rtsh_film_ott_p2/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_film_mob_p2/playlist.m3u8
 #EXTINF:0,RTSH Kuvend
-https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8
+http://79.106.48.2:4578/live/rtsh_kuvendi_mob/playlist.m3u8
 #EXTINF:0,RTSH Gjirokastra
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott_p1/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_gjirokastra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Kukësi
-https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_kukesi_mob/playlist.m3u8
 #EXTINF:-1,RTSH Shkodra
-http://79.106.48.2:4578/live/rtsh_shkodra_mob/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_shkodra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
-https://tvlive.rtsh.dev/live/rtsh_agro_ott_p1/playlist.m3u8
+http://51.91.154.19:2030/live/rtsh_agro_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://79.137.66.111:80/elroditv_240p/index.m3u8
 #EXTINF:-1,Adria Med
-http://51.195.88.12:4030/live/adriamed/playlist.m3u8
+http://51.91.154.19:2030/live/adriamed/playlist.m3u8
+#EXTINF:-1,MCN TV
+http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
 #EXTINF:0,ORA NEWS
 https://live3.mediadesk.al/oranews.php
 #EXTINF:0,ORA
@@ -53,7 +55,7 @@ https://reportstream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
-http://79.106.48.2:3333/live/premium/playlist.m3u8
+http://51.91.154.19:2030/live/premium/playlist.m3u8
 #EXTINF:0,Korça Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:0,Apollon TV
