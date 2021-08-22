@@ -74,6 +74,8 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 https://edge214.rcs-rds.ro/V4-1744058-9c4b60da29b8dfeec36d19423d9deadd-1339603777-0-1623515072-411-utv/utv/utvhq.stream/chunklist.m3u8
 #EXTINF:0,Deluxe Music TV
 https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:0,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 #EXTINF:0,Folklorit TV
 https://54627d4fc5996.streamlock.net/8144/8144/playlist.m3u8
 #EXTINF:0,ONE 1 Music Television
