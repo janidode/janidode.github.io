@@ -228,6 +228,8 @@ https://player.siradio.al:8443/gold
 https://player.siradio.al:8443/djartist
 #EXTINF:0,Si Radio Rock
 https://player.siradio.al:8443/rock
+#EXTINF:0,Si Radio Urban Beats
+https://player.siradio.al:8443/urbanbeats
 #EXTINF:0,RIX FM
 https://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1623503695
 #EXTINF:0,RIX FM Fresh
