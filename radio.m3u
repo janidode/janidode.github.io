@@ -48,6 +48,12 @@ https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
 https://t2.tvmak.com/tv/ZJARRTV.m3u8
 #EXTINF:-1,Star Plus
 https://t2.tvmak.com/tv/STARPLUS.m3u8
+#EXTINF:-1,Channel One
+https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
+#EXTINF:-1,Kopliku TV
+https://t1.tvmak.com/tv/TVKOPLIKU.m3u8
+#EXTINF:-1, TV Kombi
+https://t2.tvmak.com/tv/TVKOMBI.m3u8
 #EXTINF:0,ORA NEWS
 https://live3.mediadesk.al/oranews.php
 #EXTINF:0,ORA
