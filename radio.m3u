@@ -13,7 +13,7 @@ http://79.106.48.2:2040/live/rtsh_shqip_mob/playlist.m3u8
 #EXTINF:0,RTSH SAT
 http://79.106.48.2:2040/live/rtsh_sat_mob_p2/playlist.m3u8
 #EXTINF:0,RTSH Sport
-http://79.106.48.2:2040/live/sport_mob_pp2/playlist.m3u8
+http://51.178.89.160:8621/live/sport_mob_ppp2/playlist.m3u8
 #EXTINF:0,RTSH Korça
 http://79.106.48.2:2040/live/rtsh_korca_ott_p2/playlist.m3u8
 #EXTINF:0,RTSH Muzikë
