@@ -43,7 +43,7 @@ http://79.106.48.2:2040/live/adriamed/playlist.m3u8
 #EXTINF:-1,MCN TV
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
 #EXTINF:-1,Vizion +
-https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
+http://95.107.132.106/out/u/646_5.m3u8
 #EXTINF:-1,Rozafa TV
 https://t3.tvmak.com/tv/TVROZAFA.m3u8
 #EXTINF:-1,Zjarr TV
