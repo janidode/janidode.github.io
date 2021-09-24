@@ -52,10 +52,6 @@ https://t2.tvmak.com/tv/ZJARRTV.m3u8
 https://t2.tvmak.com/tv/STARPLUS.m3u8
 #EXTINF:-1,Channel One
 https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
-#EXTINF:-1,Kopliku TV
-https://t4.tvmak.com/tv/TVKOPLIKU.m3u8
-#EXTINF:-1,TV Kombi
-https://t2.tvmak.com/tv/TVKOMBI.m3u8
 #EXTINF:0,ORA NEWS
 https://live3.mediadesk.al/oranews.php
 #EXTINF:0,ORA
@@ -69,7 +65,7 @@ https://reportstream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
-http://51.91.154.19:2030/live/premium/playlist.m3u8
+http://51.178.89.160:8621/live/premium/playlist.m3u8
 #EXTINF:0,Korça Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:0,Apollon TV
