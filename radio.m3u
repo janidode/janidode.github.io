@@ -45,13 +45,15 @@ http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
 #EXTINF:-1,Vizion +
 https://t2.tvmak.com/tv/VIZIONPLUS.m3u8
 #EXTINF:-1,Rozafa TV
+https://t3.tvmak.com/tv/TVROZAFA.m3u8
+#EXTINF:-1,Zjarr TV
 https://t2.tvmak.com/tv/ZJARRTV.m3u8
 #EXTINF:-1,Star Plus
 https://t2.tvmak.com/tv/STARPLUS.m3u8
 #EXTINF:-1,Channel One
 https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
 #EXTINF:-1,Kopliku TV
-https://t1.tvmak.com/tv/TVKOPLIKU.m3u8
+https://t4.tvmak.com/tv/TVKOPLIKU.m3u8
 #EXTINF:-1,TV Kombi
 https://t2.tvmak.com/tv/TVKOMBI.m3u8
 #EXTINF:0,ORA NEWS
