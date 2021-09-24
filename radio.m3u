@@ -17,7 +17,7 @@ http://51.178.89.160:8621/live/sport_mob_ppp2/playlist.m3u8
 #EXTINF:0,RTSH Korça
 http://79.106.48.2:2040/live/rtsh_korca_ott_p2/playlist.m3u8
 #EXTINF:0,RTSH Muzikë
-http://79.106.48.2:2040/live/rtsh_muzike_ott/playlist.m3u
+http://51.178.89.160:8621/live/rtsh_muzike_ott/playlist.m3u
 #EXTINF:0,RTSH 24 
 http://79.106.48.2:2040/live/rtsh_24_mob_p2/playlist.m3u8
 #EXTINF:0,RTSH Femijë 
@@ -33,9 +33,9 @@ http://79.106.48.2:2040/live/rtsh_gjirokastra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Kukësi
 http://79.106.48.2:2040/live/rtsh_kukesi_mob/playlist.m3u8
 #EXTINF:-1,RTSH Shkodra
-http://79.106.48.2:20400/live/rtsh_shkodra_mob/playlist.m3u8
+http://51.178.89.160:8621/live/rtsh_shkodra_mob/playlist.m3u8
 #EXTINF:-1,RTSH Agro
-http://79.106.48.2:20400/live/rtsh_agro_mob/playlist.m3u8
+http://79.106.48.2:2040/live/rtsh_agro_mob/playlist.m3u8
 #EXTINF:-1,Elrodi TV
 http://edge01eu.ekranet.com//elroditv_240p/index.m3u8?e=7969eb3ece993e9c0fd641afff5c6797&c=elroditv_240p&medium=websocket
 #EXTINF:-1,Adria Med
