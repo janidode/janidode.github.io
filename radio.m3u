@@ -61,7 +61,7 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0,Syri TV
 https://tv.syri.net/syrilive/webtv/chunks.m3u8
 #EXTINF:0,REPORT TV
-https://reportstream.duckdns.org/hls/stream.m3u8
+https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
