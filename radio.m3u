@@ -45,7 +45,7 @@ http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
 #EXTINF:-1,Vizion +
 http://95.107.132.106/out/u/646_5.m3u8
 #EXTINF:-1,Rozafa TV
-https://t3.tvmak.com/tv/TVROZAFA.m3u8
+https://t4.tvmak.com/tv/TVROZAFA.m3u8
 #EXTINF:-1,Zjarr TV
 https://t2.tvmak.com/tv/ZJARRTV.m3u8
 #EXTINF:-1,Star Plus
@@ -73,7 +73,7 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:0,Nesër TV
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:0,RTL 102.5 TV
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
 #EXTINF:0,Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:0,1 Music Channel
