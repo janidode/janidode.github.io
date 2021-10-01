@@ -74,6 +74,8 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:0,Nesër TV
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
+#EXTINF:0,Folklorit TV
+https://5a1178b42cc03.streamlock.net:443/8144/8144/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
 #EXTINF:0,Hit Music Channel
