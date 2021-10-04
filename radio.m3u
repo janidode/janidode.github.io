@@ -223,21 +223,21 @@ https://voavaudio-i.akamaihd.net/hls/live/826546-b/VOAV_MC1_MRG/master_1.m3u8
 #EXTINF:0,City Radio 88.0 FM
 https://cp1.sednastream.com/proxy/cityradio?mp=/stream
 #EXTINF:0,Si Radio Fresh
-https://player.siradio.al:8443/fresh
+https://mpc4.mediacp.eu:8000/fresh
 #EXTINF:0,Si Radio House
-https://player.siradio.al:8443/yourhouse
+https://mpc4.mediacp.eu:8008/house
 #EXTINF:0,Si Radio Smooth
-https://player.siradio.al:8443/smooth
+https://mpc4.mediacp.eu:8006/smooth
 #EXTINF:0,Si Radio Jazz
-https://player.siradio.al:8443/jazz
+https://mpc4.mediacp.eu:8012/jazz
 #EXTINF:0,Si Radio Gold
-https://player.siradio.al:8443/gold
+https://mpc4.mediacp.eu:8014/gold
 #EXTINF:0,Si Radio DJ Artist
-https://player.siradio.al:8443/djartist
+https://mpc4.mediacp.eu:8010/djartist
 #EXTINF:0,Si Radio Rock
-https://player.siradio.al:8443/rock
+https://mpc4.mediacp.eu:8004/rock
 #EXTINF:0,Si Radio Urban Beats
-https://player.siradio.al:8443/urbanbeats
+https://mpc4.mediacp.eu:8016/urbanbeats
 #EXTINF:0,RIX FM
 https://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1623503695
 #EXTINF:0,RIX FM Fresh
