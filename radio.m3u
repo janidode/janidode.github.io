@@ -44,8 +44,6 @@ http://79.106.48.2:2040/live/adriamed/playlist.m3u8
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
 #EXTINF:-1,Vizion +
 http://95.107.132.106/out/u/646_5.m3u8
-#EXTINF:-1,Rozafa TV
-https://t4.tvmak.com/tv/TVROZAFA.m3u8
 #EXTINF:-1,Zjarr TV
 https://t2.tvmak.com/tv/ZJARRTV.m3u8
 #EXTINF:-1,Star Plus
