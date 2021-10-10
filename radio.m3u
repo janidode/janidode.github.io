@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:0,KAMERA
+https://www.youtube.com/watch?v=T5aykiL2-j4
 #EXTINF:0,RTSH 1
 http://79.106.48.2:2040/live/rtsh_1mob_pp2/playlist.m3u8
 #EXTINF:0,RTSH 2
