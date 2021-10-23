@@ -62,6 +62,10 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 https://tv.syri.net/syrilive/webtv/chunks.m3u8
 #EXTINF:0,REPORT TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0,A2 CNN
+https://abdyli.gjirafa.com/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/y11g0y1080_60/index.m3u8
+#EXTINF:0,EURONEWS ALBANIA
+https://abdyli.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y0xx1q1080/index.m3u8
 #EXTINF:0,Shqiptarja TV
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Alpo TV
