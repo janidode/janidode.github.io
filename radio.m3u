@@ -44,14 +44,6 @@ http://edge01eu.ekranet.com//elroditv_240p/index.m3u8?e=7969eb3ece993e9c0fd641af
 http://79.106.48.2:2040/live/adriamed/playlist.m3u8
 #EXTINF:-1,MCN TV
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8
-#EXTINF:-1,Vizion +
-http://95.107.132.106/out/u/646_5.m3u8
-#EXTINF:-1,Zjarr TV
-https://t2.tvmak.com/tv/ZJARRTV.m3u8
-#EXTINF:-1,Star Plus
-https://t2.tvmak.com/tv/STARPLUS.m3u8
-#EXTINF:-1,Channel One
-https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
 #EXTINF:0,ORA NEWS
 https://live3.mediadesk.al/oranews.php
 #EXTINF:0,ORA
