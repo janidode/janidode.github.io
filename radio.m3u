@@ -132,8 +132,6 @@ http://79.106.48.2:4578/live/radio_korca/playlist.m3u8
 http://79.106.48.2:4578/live/radio_kukesi/playlist.m3u8
 #EXTINF:0,Radio Shkodra
 http://79.106.48.2:4578/live/radio_shkodra/playlist.m3u8
-#EXTINF:0,Radio Vala Rinore Vlorë
-https://ca3ssl.rcast.net/stream/61253.mp3
 #EXTINF:0,Sunshine House
 https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq
 #EXTINF:0,Sunshine EDM
