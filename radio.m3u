@@ -76,7 +76,7 @@ http://178.33.34.186:3030/live/klanhdmobpp3/playlist.m3u8
 http://178.33.34.186:3030/live/klanplusmobpp3/playlist.m3u8
 #EXTINF:-1,KLAN NEWS
 http://178.33.34.186:3030/live/klannewsmobpp3/playlist.m3u8
-#EXTINF:-1,KLAN NEWS
+#EXTINF:-1,EURO NEWS
 http://178.33.34.186:3030/live/euronewsmob/playlist.m3u8
 #EXTINF:-1,SCAN
 http://178.33.34.186:3030/live/scanmob/playlist.m3u8
