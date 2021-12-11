@@ -88,6 +88,8 @@ http://178.33.34.186:3030/live/bbfottpp1/playlist.m3u8
 http://178.33.34.186:3030/live/a2pp2/playlist.m3u8
 #EXTINF:-1,Club TV
 http://178.33.34.186:3030/live/clubtvpp1/playlist.m3u8
+#EXTINF:-1,ABC News
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
 #EXTINF:0,Hit Music Channel
