@@ -287,4 +287,4 @@ https://radiostationserver.com:1195/stream
 #EXTINF:0,Radio KLAN
 http://79.106.90.123:5000/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,IN Radio
-http://80.90.86.194:/live/inradio/playlist.m3u8
+http://80.90.86.194:1935/live/inradio/playlist.m3u8
