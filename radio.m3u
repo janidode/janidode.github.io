@@ -70,6 +70,24 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Folklorit TV
 https://5a1178b42cc03.streamlock.net:443/8144/8144/playlist.m3u8
+#EXTINF:-1,KLAN
+http://178.33.34.186:3030/live/klanhdmobpp3/playlist.m3u8
+#EXTINF:-1,KLAN PLUS
+http://178.33.34.186:3030/live/klanplusmobpp3/playlist.m3u8
+#EXTINF:-1,KLAN NEWS
+http://178.33.34.186:3030/live/klannewsmobpp3/playlist.m3u8
+#EXTINF:-1,KLAN NEWS
+http://178.33.34.186:3030/live/euronewsmob/playlist.m3u8
+#EXTINF:-1,SCAN
+http://178.33.34.186:3030/live/scanmob/playlist.m3u8
+#EXTINF:-1,FAX NEWS
+http://178.33.34.186:3030/live/faxnewsmobpp1/playlist.m3u8
+#EXTINF:-1,BBF
+http://178.33.34.186:3030/live/bbfottpp1/playlist.m3u8
+#EXTINF:-1,A2
+http://178.33.34.186:3030/live/a2pp2/playlist.m3u8
+#EXTINF:-1,Club TV
+http://178.33.34.186:3030/live/clubtvpp1/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
 #EXTINF:0,Hit Music Channel
@@ -266,3 +284,7 @@ http://stream.radiojar.com/a7nbd5pscv8uv
 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
 #EXTINF:0,Radio 31
 https://radiostationserver.com:1195/stream
+#EXTINF:0,Radio KLAN
+http://79.106.90.123:5000/live/klanmusicradio1/playlist.m3u8
+#EXTINF:0,IN Radio
+http://80.90.86.194:/live/inradio/playlist.m3u8
