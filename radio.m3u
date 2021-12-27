@@ -281,7 +281,7 @@ http://stream.radiojar.com/a7nbd5pscv8uv
 #EXTINF:0,Vinyl FM
 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
 #EXTINF:0,Radio 31
-https://radiostationserver.com:1195/stream
+https://radio.tvandradiostation.com:1525/stream
 #EXTINF:0,Radio KLAN
 http://79.106.90.123:5000/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,IN Radio
