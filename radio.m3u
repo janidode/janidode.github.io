@@ -98,9 +98,6 @@ http://hitmusic.hu/hitmusic.m3u8
 http://1music.hu/1music.m3u8
 #EXTINF:0,DeeJay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1, Deluxe Music TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/s/aaafac892930d45e9c0e1ba459867b1d/1640849904/13456/13456/13456_264_live.m3u8
 #EXTINF:0,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 #EXTINF:0,DocuBay
