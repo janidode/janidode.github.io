@@ -71,7 +71,8 @@ https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Folklorit TV
 https://5a1178b42cc03.streamlock.net:443/8144/8144/playlist.m3u8
 #EXTINF:-1,SOT 7
-https://live-ak.vimeocdn.com/exp=1641467836~acl=%2Fe83a883f-e701-4afe-86b3-305da5ec3026%2F%2A~hmac=e7bfe818bef291fc9474575be30f692a14b4514981a8f845513cde294df74cb2/e83a883f-e701-4afe-86b3-305da5ec3026/chunklist_b728000.m3u8?max_segments=10#EXTINF:-1,KLAN
+https://live-ak.vimeocdn.com/exp=1641467836~acl=%2Fe83a883f-e701-4afe-86b3-305da5ec3026%2F%2A~hmac=e7bfe818bef291fc9474575be30f692a14b4514981a8f845513cde294df74cb2/e83a883f-e701-4afe-86b3-305da5ec3026/chunklist_b728000.m3u8?max_segments=10
+#EXTINF:-1,KLAN
 http://178.33.34.186:3030/live/klanhdmobpp3/playlist.m3u8
 #EXTINF:-1,KLAN PLUS
 http://178.33.34.186:3030/live/klanplusmobpp3/playlist.m3u8
