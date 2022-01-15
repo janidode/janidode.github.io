@@ -166,14 +166,6 @@ https://stream01.superfly.fm/live128
 https://icestreaming.rai.it/10.mp3
 #EXTINF:0,m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
-#EXTINF:0,DELUXE RADIO
-https://deluxe.hoerradar.de/deluxe-music-mp3-hq
-#EXTINF:0,DELUXE EASY
-https://deluxe.hoerradar.de/deluxe-easy-aac-mq
-#EXTINF:0,DELUXE LOUNGE RADIO
-https://deluxe.hoerradar.de/deluxe-lounge-mp3-hq
-#EXTINF:0,DELUXE 2000
-https://deluxe.hoerradar.de/deluxe-2000-mp3-hq
 #EXTINF:0,The Lounge Channel
 https://www.theloungechannel.com/listen.m3u
 #EXTINF:0,Radio Kiss Kiss
