@@ -72,24 +72,6 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Folklorit TV
 https://5a1178b42cc03.streamlock.net:443/8144/8144/playlist.m3u8
-#EXTINF:-1,KLAN
-http://178.33.34.186:3030/live/klanhdmobpp3/playlist.m3u8
-#EXTINF:-1,KLAN PLUS
-http://178.33.34.186:3030/live/klanplusmobpp3/playlist.m3u8
-#EXTINF:-1,KLAN NEWS
-http://178.33.34.186:3030/live/klannewsmobpp3/playlist.m3u8
-#EXTINF:-1,EURO NEWS
-http://178.33.34.186:3030/live/euronewsmob/playlist.m3u8
-#EXTINF:-1,SCAN
-http://178.33.34.186:3030/live/scanmob/playlist.m3u8
-#EXTINF:-1,FAX NEWS
-http://178.33.34.186:3030/live/faxnewsmobpp1/playlist.m3u8
-#EXTINF:-1,BBF
-http://178.33.34.186:3030/live/bbfottpp1/playlist.m3u8
-#EXTINF:-1,A2
-http://178.33.34.186:3030/live/a2pp2/playlist.m3u8
-#EXTINF:-1,Club TV
-http://178.33.34.186:3030/live/clubtvpp1/playlist.m3u8
 #EXTINF:-1,ABC News
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
