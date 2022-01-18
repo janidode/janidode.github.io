@@ -216,6 +216,8 @@ https://mpc4.mediacp.eu:8004/rock
 https://mpc4.mediacp.eu:8016/urbanbeats
 #EXTINF:0,Radio Emanuel
 http://185.221.253.173:7800/
+#EXTINF:0,TIBO Radio
+https://cp1.sednastream.com/proxy/radiotibo?mp=/stream
 #EXTINF:0,RIX FM
 https://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1623503695
 #EXTINF:0,RIX FM Fresh
