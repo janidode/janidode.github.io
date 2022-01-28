@@ -10,8 +10,6 @@ http://79.106.48.2:2040/live/rtsh3mobp2/playlist.m3u8
 http://151.80.250.173:5000/live/rtsh_plus_mob/playlist.m3u8
 #EXTINF:0,RTSH Shqip
 http://79.106.48.2:2040/live/rtsh_shqip_mob/playlist.m3u8
-#EXTINF:0,RTSH SAT
-http://79.106.48.2:2040/live/rtsh_sat_mob_p2/playlist.m3u8
 #EXTINF:0,RTSH Sport
 http://51.178.89.160:8621/live/sport_mob_ppp2/playlist.m3u8
 #EXTINF:0,RTSH Korça
