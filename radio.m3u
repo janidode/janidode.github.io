@@ -68,8 +68,6 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:0,Nesër TV
 https://monamour.agency/ntv/livestream/tracks-v1a1/mono.m3u8
-#EXTINF:0,Folklorit TV
-https://5a1178b42cc03.streamlock.net:443/8144/8144/playlist.m3u8
 #EXTINF:-1,ABC News
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
