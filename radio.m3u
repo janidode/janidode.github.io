@@ -74,6 +74,8 @@ https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 http://79.106.90.114:3030/live/klanhdmobpp3/playlist.m3u8
 #EXTINF:-1,BBF
 http://79.106.90.122:5000/live/bbfottpp1/playlist.m3u8
+#EXTINF:-1,CLUB TV
+http://171.22.150.202:2040/live/clubtvpp1/playlist.m3u8
 #EXTINF:0,RTL 102.5 TV
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
 #EXTINF:0,Hit Music Channel
