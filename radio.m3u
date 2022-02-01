@@ -76,6 +76,18 @@ http://79.106.90.114:3030/live/klanhdmobpp3/playlist.m3u8
 http://79.106.90.122:5000/live/bbfottpp1/playlist.m3u8
 #EXTINF:-1,CLUB TV
 http://171.22.150.202:2040/live/clubtvpp1/playlist.m3u8
+#EXTINF:-1,KLAN Plus
+http://171.22.150.202:2040/live/klanplusmobpp2/playlist.m3u8
+#EXTINF:-1,KLAN News
+http://171.22.150.202:2040/live/klannewsmobpp3/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://171.22.150.202:2040/live/euronewsmob/playlist.m3u8
+#EXTINF:-1,SCAN TV
+http://171.22.150.202:2040/live/scanmob/playlist.m3u8
+#EXTINF:-1,FAX News
+http://171.22.150.202:2040/live/faxnewsmobpp1/playlist.m3u8
+#EXTINF:-1,A2 CNN
+http://171.22.150.202:2040/live/a2pp2/playlist.m3u8
 #EXTINF:-1, Folklorit TV
 https://5a1178b42cc03.streamlock.net/8144/8144/chunklist_w1031408207.m3u8
 #EXTINF:0,RTL 102.5 TV
