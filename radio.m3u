@@ -166,6 +166,8 @@ https://www.theloungechannel.com/listen.m3u
 https://ice06.fluidstream.net/KissKiss.aac
 #EXTINF:0,Alsion Radio
 http://109.169.26.216:8018/;
+#EXTINF:0,Radio Klea
+https://us1freenew.listen2myradio.com/live.mp3?typeportmount=s1_36190_stream_913408787
 #EXTINF:0,Radio Lushnja
 https://stream.radiolushnja.al/radio/8000/radio.mp3
 #EXTINF:0,EuroStar Radio
