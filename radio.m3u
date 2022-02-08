@@ -217,21 +217,21 @@ https://radio.oranews.tv:8443/stream
 #EXTINF:0,City Radio 88.0 FM
 https://cp1.sednastream.com/proxy/cityradio?mp=/stream
 #EXTINF:0,Si Radio Fresh
-https://mpc4.mediacp.eu:8000/fresh
+https://player.siradio.al:8443/fresh
 #EXTINF:0,Si Radio House
-https://mpc4.mediacp.eu:8008/house
+https://player.siradio.al:8443/yourhouse
 #EXTINF:0,Si Radio Smooth
-https://mpc4.mediacp.eu:8006/smooth
+https://player.siradio.al:8443/smooth
 #EXTINF:0,Si Radio Jazz
-https://mpc4.mediacp.eu:8012/jazz
+https://player.siradio.al:8443/jazz
 #EXTINF:0,Si Radio Gold
-https://mpc4.mediacp.eu:8014/gold
+https://player.siradio.al:8443/gold
 #EXTINF:0,Si Radio DJ Artist
-https://mpc4.mediacp.eu:8010/djartist
+https://player.siradio.al:8443/djartist
 #EXTINF:0,Si Radio Rock
-https://mpc4.mediacp.eu:8004/rock
+https://player.siradio.al:8443/rock
 #EXTINF:0,Si Radio Urban Beats
-https://mpc4.mediacp.eu:8016/urbanbeats
+https://player.siradio.al:8443/urbanbeats
 #EXTINF:0,Radio Emanuel
 http://185.221.253.173:7800/
 #EXTINF:0,TIBO Radio
