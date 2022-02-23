@@ -74,8 +74,6 @@ https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 http://79.106.90.114:3030/live/klanhdmobpp3/playlist.m3u8
 #EXTINF:-1,BBF
 http://79.106.90.122:5000/live/bbfottpp1/playlist.m3u8
-#EXTINF:-1,CLUB TV
-http://171.22.150.202:2040/live/clubtvpp1/playlist.m3u8
 #EXTINF:-1,KLAN Plus
 http://171.22.150.202:2040/live/klanplusmobpp2/playlist.m3u8
 #EXTINF:-1,KLAN News
