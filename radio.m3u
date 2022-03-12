@@ -255,7 +255,7 @@ http://live.tiranajazzradio.com:8000/stream
 #EXTINF:0,Radio Shqip
 https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3
 #EXTINF:0,Alpo Radio
-http://62.210.24.124:8379/;stream.mp3
+https://cast.az-streamingserver.com/proxy/jjayjtzm?mp=/stream
 #EXTINF:0,Radio Kontakt
 http://84.20.83.24:88/broadwavehigh.mp3
 #EXTINF:0,Radio Rash
