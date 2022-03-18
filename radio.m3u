@@ -100,6 +100,8 @@ https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 #EXTINF:0,DocuBay
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/video_720p_1000004370.m3u8
+#EXTINF:0,Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/chunklist_w89796563.m3u8
 #EXTINF:0,Top News
 https://stream-10.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1iraEU2HeJrlh3c65IaOLsPoI)/dm/3/x6inuzo/s/live-2.m3u8
 #EXTINF:0,Radio Nacional
