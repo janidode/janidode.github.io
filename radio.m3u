@@ -127,19 +127,19 @@ https://cp1.sednastream.com/proxy/radioone94?mp=/stream
 #EXTINF:0,Sophie Caffe Radio
 http://104.128.234.228:8000/.mp3
 #EXTINF:0,Radio Tirana 1
-http://79.106.48.2:2040/live/radio_tirana_1/playlist.m3u8
+https://radiolive.rtsh.dev/radiotirana1
 #EXTINF:0,Radio Tirana 2
-http://79.106.48.2:2040/live/radio_tirana_2/playlist.m3u8
+https://radiolive.rtsh.dev/radiotirana2
 #EXTINF:0,Radio Tirana 3
-http://79.106.48.2:2040/live/radio_3/playlist.m3u8
+https://radiolive.rtsh.dev/radiotirana3
 #EXTINF:0,Radio Tirana International
-http://79.106.48.2:2040/live/radio_tirana_internacional/playlist.m3u8
+https://radiolive.rtsh.dev/rti
 #EXTINF:0,Radio Tirana Klasik
-http://79.106.48.2:2040/live/radio_tirana_klasik/playlist.m3u8
+https://radiolive.rtsh.dev/radiotiranaklasik1
 #EXTINF:0,Radio Tirana Jazz
-http://79.106.48.2:2040/live/radio_tirana_jazz/playlist.m3u8
+https://radiolive.rtsh.dev/radiotiranajazz
 #EXTINF:0,Radio Tirana Fëmijë
-http://79.106.48.2:2040/live/radio_tirana_femije/playlist.m3u8
+https://radiolive.rtsh.dev/radiotiranafemije
 #EXTINF:0,Radio Tirana Muzikë
 http://79.106.48.2:2040/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Gjirokastra
