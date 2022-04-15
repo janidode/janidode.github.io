@@ -216,6 +216,8 @@ https://icy.unitedradio.it/rmcweb018
 https://icy.unitedradio.it/rmcweb023
 #EXTINF:0,Radio Monte Carlo Running
 https://icy.unitedradio.it/rmcweb021
+#EXTINF:0,Deluxe Music
+ttps://audiostreams.deluxemusic.tv/music/aac-64
 #EXTINF:0,TOP GOLD
 https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
@@ -226,22 +228,6 @@ http://79.106.90.114:3030/live/radiosyri/playlist.m3u8
 https://radio.oranews.tv:8443/stream
 #EXTINF:0,City Radio 88.0 FM
 https://cp1.sednastream.com/proxy/cityradio?mp=/stream
-#EXTINF:0,Si Radio Fresh
-https://player.siradio.al:8443/fresh
-#EXTINF:0,Si Radio House
-https://player.siradio.al:8443/yourhouse
-#EXTINF:0,Si Radio Smooth
-https://player.siradio.al:8443/smooth
-#EXTINF:0,Si Radio Jazz
-https://player.siradio.al:8443/jazz
-#EXTINF:0,Si Radio Gold
-https://player.siradio.al:8443/gold
-#EXTINF:0,Si Radio DJ Artist
-https://player.siradio.al:8443/djartist
-#EXTINF:0,Si Radio Rock
-https://player.siradio.al:8443/rock
-#EXTINF:0,Si Radio Urban Beats
-https://player.siradio.al:8443/urbanbeats
 #EXTINF:0,Radio Emanuel
 http://185.221.253.173:7800/
 #EXTINF:0,TIBO Radio
