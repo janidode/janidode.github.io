@@ -218,10 +218,20 @@ https://icy.unitedradio.it/rmcweb023
 https://icy.unitedradio.it/rmcweb021
 #EXTINF:0,Deluxe Music
 ttps://audiostreams.deluxemusic.tv/music/aac-64
+#EXTINF:0,Deluxe Music Easy
+https://audiostreams.deluxemusic.tv/easy/mp3-192/
 #EXTINF:0,Deluxe Music Lounge
 https://audiostreams.deluxemusic.tv/lounge/aac-64
 #EXTINF:0,Deluxe 2000
 https://audiostreams.deluxemusic.tv/2000/aac-64/
+#EXTINF:0,Deluxe Top 40
+https://audiostreams.deluxemusic.tv/top40/aac-64/
+#EXTINF:0,Deluxe New Arrivals
+https://audiostreams.deluxemusic.tv/arrivals/aac-64/
+#EXTINF:0,Deluxe 80s Extreme
+https://audiostreams.deluxemusic.tv/80s/aac-64/
+#EXTINF:0,Deluxe CHEFSESSEL by WAGNER
+https://audiostreams.deluxemusic.tv/chefsessel/aac-64/
 #EXTINF:0,TOP GOLD
 https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
