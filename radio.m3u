@@ -61,7 +61,7 @@ https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:0,Premium TV
-http://151.80.250.173:5000/live/premium/playlist.m3u8
+https://premiummedia.al/stream/premium-channel/live.m3u8
 #EXTINF:0,Korça Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:0,Apollon TV
