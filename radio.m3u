@@ -300,8 +300,6 @@ http://80.90.86.194:1935/live/inradio/playlist.m3u8
 http://live.lspublic.com:27022/;
 #EXTINF:0,Radio Saranda
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10137&type=s1
-#EXTINF:0,GOTA Radio
-http://n01.radiojar.com/3wb2gnv6seruv
 #EXTINF:0,Cokollata
 https://ssl.divinohost.com/8012/;
 #EXTINF:0,Radio Eklipsi
