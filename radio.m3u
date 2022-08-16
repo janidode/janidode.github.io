@@ -163,7 +163,25 @@ https://sunshinelive.hoerradar.de/sunshinelive-edm-mp3-hq
 #EXTINF:0,Dance FM 89.5
 https://edge126.rcs-rds.ro/profm/dancefm.mp3
 #EXTINF:0,Best Pro Radio
-https://az1.sednastream.com/radio/8000/Live?1582297952
+http://az1.sednastream.com/radio/8000/Live
+#EXTINF:0,Best Pro Radio Electronic
+http://az1.sednastream.com/radio/8150/Live
+#EXTINF:0,Best Pro Deep
+http://az1.sednastream.com/radio/8010/Live
+#EXTINF:0,Best Pro Gold
+http://listen.openstream.co/6342/audio
+#EXTINF:0,Famed Radio
+http://listen.openstream.co/6580/audio
+#EXTINF:0,Black Pearl Lounge
+http://az1.sednastream.com/radio/8050/Live
+#EXTINF:0,Latitude Tirana
+http://listen.openstream.co/6588/audio
+#EXTINF:0,Eridon Lounge
+http://az1.sednastream.com/radio/8030/radio.mp3
+#EXTINF:0,Palma Lounge Bar
+hhttp://az1.sednastream.com/listen/bar_palma/radio.mp3
+#EXTINF:0,Vila 23
+http://az1.sednastream.com/radio/8100/radio.mp3
 #EXTINF:0,Maretimo House Radio
 https://radio.maretimo-records.com/house.mp3
 #EXTINF:0,Maretimo Lounge Radio
