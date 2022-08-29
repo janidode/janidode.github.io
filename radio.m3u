@@ -133,29 +133,29 @@ https://cp1.sednastream.com/proxy/radioone94?mp=/stream
 #EXTINF:0,Sophie Caffe Radio
 http://104.128.234.228:8000/.mp3
 #EXTINF:0,Radio Tirana 1
-https://radiolive.rtsh.dev/radiotirana1
+http://79.106.48.2:8000/radiotirana1.m3u
 #EXTINF:0,Radio Tirana 2
-https://radiolive.rtsh.dev/radiotirana2
+http://79.106.48.2:8000/radiotirana2.m3u
 #EXTINF:0,Radio Tirana 3
-https://radiolive.rtsh.dev/radiotirana3
+http://79.106.48.2:8000/radiotirana3.m3u
 #EXTINF:0,Radio Tirana International
-https://radiolive.rtsh.dev/rti
+http://79.106.48.2:8000/rti.m3u
 #EXTINF:0,Radio Tirana Klasik
-https://radiolive.rtsh.dev/radiotiranaklasik1
+http://79.106.48.2:8000/radiotiranaklasik1.m3u
 #EXTINF:0,Radio Tirana Jazz
-https://radiolive.rtsh.dev/radiotiranajazz
+http://79.106.48.2:8000/radiotiranajazz.m3u
 #EXTINF:0,Radio Tirana Fëmijë
-https://radiolive.rtsh.dev/radiotiranafemije
+http://79.106.48.2:8000/radiotiranafemije.m3u
 #EXTINF:0,Radio Tirana Muzikë
 http://79.106.48.2:2040/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Gjirokastra
 http://79.106.48.2:2040/live/radio_gjirokastra/playlist.m3u8
 #EXTINF:0,Radio Korça
-http://79.106.48.2:2040/live/radio_korca/playlist.m3u8
+http://79.106.48.2:8000/radiokorca.m3u
 #EXTINF:0,Radio Kukësi
-http://79.106.48.2:2040/live/radio_kukesi/playlist.m3u8
+http://79.106.48.2:8000/radiokukesi.m3u
 #EXTINF:0,Radio Shkodra
-http://79.106.48.2:2040/live/radio_shkodra/playlist.m3u8
+http://79.106.48.2:8000/radioshkodra.m3u
 #EXTINF:0,Sunshine House
 https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq
 #EXTINF:0,Sunshine EDM
