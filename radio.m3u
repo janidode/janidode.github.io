@@ -8,8 +8,6 @@ https://business.playfm.al/api/nowplaying/playfm
 http://37.26.87.155:1936/hls/stream1.m3u8
 #EXTINF:0,ORA NEWS
 https://live3.mediadesk.al/oranews.php
-#EXTINF:0,ORA
-https://live1.mediadesk.al/oratv.php
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0,REPORT TV
