@@ -60,14 +60,6 @@ http://79.106.48.2:8000/radiotiranajazz.m3u
 http://79.106.48.2:8000/radiotiranafemije.m3u
 #EXTINF:0,Radio Tirana Muzikë
 http://79.106.48.2:2040/live/radio_muzike/playlist.m3u8
-#EXTINF:0,Radio Gjirokastra
-http://79.106.48.2:2040/live/radio_gjirokastra/playlist.m3u8
-#EXTINF:0,Radio Korça
-http://79.106.48.2:8000/radiokorca.m3u
-#EXTINF:0,Radio Kukësi
-http://79.106.48.2:8000/radiokukesi.m3u
-#EXTINF:0,Radio Shkodra
-http://79.106.48.2:8000/radioshkodra.m3u
 #EXTINF:0,Sunshine House
 https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
 #EXTINF:0,Sunshine Chillout
