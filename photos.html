@@ -7,7 +7,9 @@
 <link rel="dns-prefetch" href="https://cdn.ampproject.org/v0/amp-carousel-0.1.js">
 <link rel="dns-prefetch" href="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js">
 <link rel="dns-prefetch" href="https://cdn.ampproject.org/v0/amp-selector-0.1.js">
+<link rel="dns-prefetch" href="https://cdn.ampproject.org/v0/amp-bind-0.1.js">
 <script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
 <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
 <script async custom-element="amp-fit-text" src="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js"></script>
 <script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
@@ -20,7 +22,6 @@
 "url": "https://janidode.info"
 }
 </script>
-<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 <link rel="canonical" href="https://janidode.info/photos.html">
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="Description" CONTENT="Prof.Dr. JANI DODE E-mail: jani@janidode.info">
@@ -68,18 +69,355 @@ text-align: center;
 </style>
 </head>
 <body>
-<article>
+
 <h2>Prof.Dr. JANI DODE</h2>
 <p> <amp-img src="https://janidode.info/photo.png" alt="JANI THOMA DODE" height="300" width="400"></amp-img> </p>
-<p>
-<div>
-<li> PHOTOS</li>
 
-<amp-carousel id="carousel-with-preview"
+<h2>PHOTOS</h2>
+<!--- 
+<amp-selector id="carouselSelector" on="select:carousel.goToSlide(index=event.targetOption)" layout="container">
+<amp-carousel id="carouselPreview" class="carousel-preview" height="72" layout="fixed-height" type="carousel">
+ <amp-img option="0" selected src="https://janidode.info/foto1.jpg"
       width="400"
       height="300"
       layout="responsive"
-      type="slides">
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="1" src="https://janidode.info/dekorata.png"
+      width="60"
+      height="40"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="2" src="https://janidode.info/photo (1).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="3" src="https://janidode.info/photo (2).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="4" src="https://janidode.info/photo (3).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="5" src="https://janidode.info/photo (4).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="6" src="https://janidode.info/photo (5).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="7" src="https://janidode.info/photo (6).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="8" src="https://janidode.info/photo (7).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="9" src="https://janidode.info/photo (8).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="10" src="https://janidode.info/photo (9).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="11" src="https://janidode.info/photo (10).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="12" src="https://janidode.info/photo (11).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="13" src="https://janidode.info/photo (12).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="14" src="https://janidode.info/photo (13).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="15" src="https://janidode.info/photo (14).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="16" src="https://janidode.info/photo (15).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="17" src="https://janidode.info/photo (16).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="18" src="https://janidode.info/photo (17).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="19" src="https://janidode.info/photo (18).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="20" src="https://janidode.info/photo (19).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="21" src="https://janidode.info/photo (20).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="22" src="https://janidode.info/photo (21).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="23" src="https://janidode.info/photo (22).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="24" src="https://janidode.info/photo (23).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="25" src="https://janidode.info/photo (24).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="26" src="https://janidode.info/photo (25).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="27" src="https://janidode.info/photo (26).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="28" src="https://janidode.info/photo (27).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="29" src="https://janidode.info/photo (28).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="30" src="https://janidode.info/photo (29).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="31" src="https://janidode.info/photo (30).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="32" src="https://janidode.info/photo (31).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="33" src="https://janidode.info/photo (32).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="34" src="https://janidode.info/photo (33).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="35" src="https://janidode.info/photo (34).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="36" src="https://janidode.info/photo (35).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="37" src="https://janidode.info/photo (37).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="38" src="https://janidode.info/photo (38).JPG"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="39" src="https://janidode.info/photo (39).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="40" src="https://janidode.info/photo (40).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>    
+<amp-img option="41" src="https://janidode.info/photo (41).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>    
+<amp-img option="42" src="https://janidode.info/photo (42).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>   
+<amp-img option="43" src="https://janidode.info/photo (43).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>         
+<amp-img option="44" src="https://janidode.info/photo (45).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>      
+<amp-img option="45" src="https://janidode.info/photo (46).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>      
+<amp-img option="46" src="https://janidode.info/photo (47).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>  
+<amp-img option="47" src="https://janidode.info/photo (48).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>  
+<amp-img option="48" src="https://janidode.info/photo (49).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>  
+<amp-img option="49" src="https://janidode.info/photo (50).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>  
+<amp-img option="50" src="https://janidode.info/photo (51).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>  
+<amp-img option="51" src="https://janidode.info/photo (52).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="52" src="https://janidode.info/photo (53).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="53" src="https://janidode.info/photo (54).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="54" src="https://janidode.info/photo (55).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<!-- <amp-img option="55" src="https://janidode.info/photo (56).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="55" src="https://janidode.info/photo (57).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="56" src="https://janidode.info/photo (58).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="57" src="https://janidode.info/photo (59).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="58" src="https://janidode.info/photo (61).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="59" src="https://janidode.info/photo (62).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="60" src="https://janidode.info/photo (63).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="61" src="https://janidode.info/photo (64).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="62" src="https://janidode.info/photo (65).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 
+<amp-img option="63" src="https://janidode.info/photo (66).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img>
+<amp-img option="64" src="https://janidode.info/photo (67).jpg"
+      width="400"
+      height="300"
+      layout="responsive"
+      alt="Prof.Dr. Jani Dode"></amp-img> 	
+</amp-carousel>
+</amp-selector>
+
+--->
+<amp-carousel id="carousel"
+      width="400"
+      height="300"
+      layout="responsive"
+      type="slides" on="slideChange:
+          carouselSelector.toggle(index=event.index, value=true),
+          carouselPreview.goToSlide(index=event.index)">
 <amp-img src="https://janidode.info/foto1.jpg"
       width="400"
       height="300"
@@ -412,8 +750,7 @@ text-align: center;
       alt="Prof.Dr. Jani Dode"></amp-img> 	  
 </amp-carousel>
 <li><a href="https://janidode.info">HOME</a> </li>
-</div>
-</p>
-</article>
+
+
 </body>
 </html>
