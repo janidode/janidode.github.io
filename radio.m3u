@@ -14,6 +14,8 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0, Vizion Plus
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
+#EXTINF:0,Panorama TV
+https://tv.panorama.com.al/panorama/livestream/chunks.m3u8
 #EXTINF:0,Shqiptarja TV
 https://sh-stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,Syri TV
