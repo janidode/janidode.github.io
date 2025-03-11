@@ -64,6 +64,8 @@ http://79.106.48.2:8000/radiotiranafemije.m3u
 http://79.106.48.2:2040/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Wave
 http://80.90.88.91/stream
+#EXTINF:0,Radio Nacional
+https://stream.zeno.fm/vkqjn43uuptuv
 #EXTINF:0,Sunshine House
 https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
 #EXTINF:0,Sunshine Chillout
