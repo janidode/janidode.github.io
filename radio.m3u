@@ -32,6 +32,14 @@ https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0,Radio Galatsi
 https://my.ssl-stream.com/945000?1742842534995
+#EXTINF:0,MC2
+https://n42a-eu.rcs.revma.com/fxp289cp81uvv?rj-ttl=5&rj-tok=AAABkRmCwKcAbQTSxe9Xtr4uaQ
+#EXTINF:0,Klassik Beats Radio
+https://stream.klassikradio.de/beats-national/aac-128/radiode
+#EXTINF:0,Deluxe Music Easy
+https://audiostreams.deluxemusic.tv/easy/mp3-192/
+#EXTINF:0,Deluxe Music Lounge
+https://audiostreams.deluxemusic.tv/lounge/aac-64
 #EXTINF:0,Top Albania Radio
 https://live.top-media.al/tar
 #EXTINF:0,Club FM 100.4 FM
@@ -140,10 +148,6 @@ https://icy.unitedradio.it/rmcweb023
 https://icy.unitedradio.it/rmcweb021
 #EXTINF:0,Deluxe Music
 https://audiostreams.deluxemusic.tv/music/aac-64
-#EXTINF:0,Deluxe Music Easy
-https://audiostreams.deluxemusic.tv/easy/mp3-192/
-#EXTINF:0,Deluxe Music Lounge
-https://audiostreams.deluxemusic.tv/lounge/aac-64
 #EXTINF:0,Deluxe 2000
 https://audiostreams.deluxemusic.tv/2000/aac-64/
 #EXTINF:0,Deluxe Top 40
@@ -170,8 +174,6 @@ https://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-
 https://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553144
 #EXTINF:0,Radiotravel 104.6 Mhz
 https://cp1.sednastream.com/proxy/radiotravel?mp=/stream?ver=970670
-#EXTINF:0,MC2
-https://n42a-eu.rcs.revma.com/fxp289cp81uvv?rj-ttl=5&rj-tok=AAABkRmCwKcAbQTSxe9Xtr4uaQ
 #EXTINF:0,Radio Shqip
 https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3
 #EXTINF:0,Alpo Radio
