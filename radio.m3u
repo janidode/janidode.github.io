@@ -44,6 +44,8 @@ https://audiostreams.deluxemusic.tv/lounge/aac-64
 https://live.top-media.al/tar
 #EXTINF:0,Club FM 100.4 FM
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
+#EXTINF:0,Klan Radio
+https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,ENERGY Radio Albania
 https://ice31.securenetsystems.net:80/AL09
 #EXTINF:0,Radio DJ
