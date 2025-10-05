@@ -11,7 +11,7 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0,REPORT TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0, Vizion Plus
-https://mfe01.tring.al/delta/105/out/u/1180_1.m3u
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0,Shqiptarja TV
 https://sh-stream.duckdns.org/hls/stream.m3u
 #EXTINF:0,Alpo TV
@@ -36,6 +36,8 @@ https://audiostreams.deluxemusic.tv/lounge/aac-64
 https://live.top-media.al/tar
 #EXTINF:0,Club FM 100.4 FM
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
+#EXTINF:0,Klan Radio
+https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,Paper Play Radio Albania
 https://business.playfm.al:8170/paperplay
 #EXTINF:0,ENERGY Radio Albania
@@ -44,10 +46,6 @@ https://ice31.securenetsystems.net:80/AL09
 https://radio.albaniaradiodj.al/stream
 #EXTINF:0,Radio One
 https://cp1.sednastream.com/proxy/radioone94?mp=/stream
-#EXTINF:0,Sophie Caffe Radio
-https://sophie1.skylineserver.com/.mp3
-#EXTINF:0,Sophie Bohemian Radio
-https://sophie2.skylineserver.com/.mp3
 #EXTINF:0,Radio Tirana 1
 http://79.106.48.2:8000/radiotirana1.m3u
 #EXTINF:0,Radio Tirana 2
@@ -62,8 +60,6 @@ http://79.106.48.2:8000/radiotiranaklasik1.m3u
 http://79.106.48.2:8000/radiotiranajazz.m3u
 #EXTINF:0,Radio Tirana Fëmijë
 http://79.106.48.2:8000/radiotiranafemije.m3u
-#EXTINF:0,Radio Tirana Muzikë
-http://79.106.48.2:2040/live/radio_muzike/playlist.m3u8
 #EXTINF:0,Radio Saranda
 https://s64.radiolize.com/radio/8050/radio.mp3
 #EXTINF:0,Radio Wave
@@ -84,8 +80,6 @@ http://az1.sednastream.com/radio/8000/Live
 http://az1.sednastream.com/radio/8150/Live
 #EXTINF:0,Best Pro Deep
 http://az1.sednastream.com/radio/8010/Live
-#EXTINF:0,Best Pro Gold
-http://listen.openstream.co/6342/audio
 #EXTINF:0,Famed Radio
 http://listen.openstream.co/6580/audio
 #EXTINF:0,Black Pearl Lounge
@@ -94,14 +88,10 @@ http://az1.sednastream.com/radio/8050/Live
 http://listen.openstream.co/6588/audio
 #EXTINF:0,Eridon Lounge
 http://az1.sednastream.com/radio/8030/radio.mp3
-#EXTINF:0,Palma Lounge Bar
-http://az1.sednastream.com/listen/bar_palma/radio.mp3
 #EXTINF:0,Vila 23
 http://az1.sednastream.com/radio/8100/radio.mp3
 #EXTINF:0,Smooth Grooving
 https://sgr.lucasmultimedia.com/stream.ogg
-#EXTINF:0,Super Fly
-https://stream01.superfly.fm/live128
 #EXTINF:0,The Lounge Channel
 https://www.theloungechannel.com/listen.m3u
 #EXTINF:0,Radio Kiss Kiss
@@ -144,59 +134,25 @@ https://icy.unitedradio.it/rmcweb023
 https://icy.unitedradio.it/rmcweb021
 #EXTINF:0,Deluxe Music
 https://audiostreams.deluxemusic.tv/music/aac-64
-#EXTINF:0,Deluxe 2000
-https://audiostreams.deluxemusic.tv/2000/aac-64/
-#EXTINF:0,Deluxe Top 40
-https://audiostreams.deluxemusic.tv/top40/aac-64/
-#EXTINF:0,Deluxe New Arrivals
-https://audiostreams.deluxemusic.tv/arrivals/aac-64/
-#EXTINF:0,Deluxe 80s Extreme
-https://audiostreams.deluxemusic.tv/80s/aac-64/
-#EXTINF:0,Deluxe CHEFSESSEL by WAGNER
-https://audiostreams.deluxemusic.tv/chefsessel/aac-64/
 #EXTINF:0,TOP GOLD
 https://live.topgold.al/topgold
 #EXTINF:0,My Music Radio
 https://live.top-media.al/mmr
 #EXTINF:0,ORA Radio
 https://radio.oranews.tv:8443/stream
-#EXTINF:0,City Radio 88.0 FM
-https://cp1.sednastream.com/proxy/cityradio?mp=/stream
-#EXTINF:0,Radio Emanuel
-http://185.221.253.173:7800/
 #EXTINF:0,RIX FM
 https://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1623503695
 #EXTINF:0,RIX FM Fresh
 https://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585553144
-#EXTINF:0,Radiotravel 104.6 Mhz
-https://cp1.sednastream.com/proxy/radiotravel?mp=/stream?ver=970670
 #EXTINF:0,Radio Shqip
 https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3
 #EXTINF:0,Alpo Radio
 https://cp1.sednastream.com/proxy/alporadio/stream
-#EXTINF:0,Radio Kontakt
-http://84.20.83.24:88/broadwavehigh.mp3
 #EXTINF:0,Radio Jehona
 http://stream.dzenarika.net:8086/;
 #EXTINF:0,Radio SOL
 https://az1.sednastream.com/radio/8160/radio.mp3
-#EXTINF:0,Play Radio Albania
-http://stream.radiojar.com/sx7zrht0pg0uv
-#EXTINF:0,Play Radio Club Hits
-https://business.playfm.al/api/nowplaying/playedm
-#EXTINF:0,Play Radio The Oldies
-https://business.playfm.al/api/nowplaying/playtheoldies
-#EXTINF:0,Play Radio Folk
-https://business.playfm.al/api/nowplaying/playfolk
-#EXTINF:0,Play Radio Resto Beats
-https://business.playfm.al/api/nowplaying/playresto
 #EXTINF:0,Play Radio Lounge Vibes
 https://business.playfm.al:8050/playvibes
-#EXTINF:0,Play Radio Fitness
-https://business.playfm.al/api/nowplaying/playfitness
-#EXTINF:0,Play Radio Saxy Beats
-https://business.playfm.al/api/nowplaying/saxybeats
-#EXTINF:0,Play Radio Cine Tapes
-https://business.playfm.al/api/nowplaying/playsoundtracks
 #EXTINF:0,Vinyl FM
 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
