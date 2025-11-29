@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:0,IN Radio
-http://80.90.86.194:1935/live/inradio/playlist.m3u8
 #EXTINF:0,Klan Radio
 https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8 
+#EXTINF:0,IN Radio
+http://80.90.86.194:1935/live/inradio/playlist.m3u8
 #EXTINF:0,ORA NEWS
 https://live3.mediadesk.al/oranews.php
 #EXTINF:0,NEWS 24
@@ -22,6 +22,8 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1,TVA News
+https://live.tvanews.com/live/tvanews/play.m3u8
 #EXTINF:-1, Top News
 https://euc13.playlist.ttvnw.net/v1/playlist/CqEG9ff2EQmvgkZ10O-ysoOvG0q5prj0MUFh0EUHd8qvT_cVbUi-HqwrIZ2eCGixVXppoqi4hDw5BmkR9QvPd-RJbrnnqtbY2G6i6wukW_sc3nMR_9pgG2thQqil7p6ZD8q97STsQR4x--llVq2hy338TdtEBwHdC-Qjm_iy9tKrmIfWNECxwQZIC1qAeGWGcF9UekTiNzkEh4dcGYnrAJrJ5IiCu_74ibLCQ-bcSBRH2A1vuuDRxj-WbDg0m2qosPAHT5O_GbQ3jMFrgg_FX5wS3ZboFrBCqFRE_DFz3I6TwAnc_vf5lqT5OIHQ5Skv54dtD77wXAWK_Cc7fYMaKgGC1g1h0ZxrTiV5RC9TvGNqn5reNEGmSZ-yNUaz2ySdb0rnViETAkqsUZjf_UiqKJ3-_8WH0MpKuyWUeeu9HNRh3vy9nnuVMD_u2OQ1m-h4nj3iXUet3yr7TEX3meA_f0aiesLimJPhpdtOh2FM2HV2vns4JhNf6QItbjPUB1M2IOXoChMpGKx-pQx9fl1220H_BE4t8A5OPn8CoqrEvErq15x1WuvkmV9KqTuRzlZHq6lm5441vKUcJPvC-u_SSwNLdchGxe2pYvOrjx-u8SI5rIy-CbRYpeqLuF0IBpUBrXRuJzheHfPVPU2kJzcdx7HGxUxHURignGnE7ystrNJ2dGoIGYdBsKMcC_oUaZj08ykTyj5uWDvLetxXNydKiGIbtw7p1OuL5kJJyYVOWgUBweDzWqfczzq9EhnAFN8CXI1oKrdLBsJhiSrQpAqZNGyqjKv_EzateXY_hgtPDuxaajGne65gf7v3smJ5rfkaGOg9qa_lJlGkfa628gMsB_-EpcJp2p-RES2anu6DqNlZXUoZmO_sP_asDzGhchT5Ob2u6fgLct13p3YY_ykX27e_ZvZZ5Z5ABEkO9pOSVE9VJftnN6O6PePcIE0x1oorUgFn6wHc3UdXAXNBgXeIpqXJf3GNxVVXBGtGGoJW4wfBB53UdS5SBdm6wCu2UAj7XDNkTukn9s4ldMMeTXLUl5prdod9_HbBi2oT8WpxE8Dtt0MsGgz1szF3t5MRKcv4ZXAgASoJZXUtd2VzdC0yMOMN.m3u8
 #EXTINF:-1,ABC News
@@ -40,8 +42,6 @@ https://audiostreams.deluxemusic.tv/lounge/aac-64
 https://live.top-media.al/tar
 #EXTINF:0,Club FM 100.4 FM
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
-#EXTINF:0,Klan Radio
-https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
 #EXTINF:0,Paper Play Radio Albania
 https://business.playfm.al:8170/paperplay
 #EXTINF:0,ENERGY Radio Albania
