@@ -102,8 +102,6 @@ https://sgr.lucasmultimedia.com/stream.ogg
 https://www.theloungechannel.com/listen.m3u
 #EXTINF:0,Radio Kiss Kiss
 https://ice06.fluidstream.net/KissKiss.aac
-#EXTINF:0,EuroStar Radio
-http://radioeurostar.al:9000/;
 #EXTINF:0,CLUB FM KOSOVA
 https://cp1.sednastream.com/proxy/clubfmkosova?mp=%2F%3Bstream.mp3&_=1
 #EXTINF:0,R101
