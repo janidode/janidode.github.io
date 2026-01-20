@@ -68,6 +68,8 @@ http://79.106.48.2:8000/radiotiranajazz.m3u
 http://79.106.48.2:8000/radiotiranafemije.m3u
 #EXTINF:0,Radio Saranda
 https://s64.radiolize.com/radio/8050/radio.mp3
+#EXTINF:0,MCN Radio
+https://mcn24.tv/mcn
 #EXTINF:0,Radio Wave
 http://80.90.88.91/stream
 #EXTINF:0,Radio Nacional
