@@ -44,6 +44,10 @@ https://audiostreams.deluxemusic.tv/lounge/aac-64
 https://live.top-media.al/tar
 #EXTINF:0,Club FM 100.4 FM
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
+#EXTINF:0,Club Bar Bit
+https://cp1.sednastream.com/proxy/clubbit/stream
+#EXTINF:0,Club Bar
+https://cp1.sednastream.com/proxy/deephouse/stream
 #EXTINF:0,Paper Play Radio Albania
 https://business.playfm.al:8170/paperplay
 #EXTINF:0,ENERGY Radio Albania
