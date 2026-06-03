@@ -18,8 +18,6 @@ https://sh-stream.duckdns.org/hls/stream.m3u
 https://vs.sednastream.com:1936/alportv/alportv/chunklist_w1420568805.m3u8
 #EXTINF:0,Korça Plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1,NTV
-https://protokolldns.xyz/ntv.l.i.v.e5547892023/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1,TVA News
