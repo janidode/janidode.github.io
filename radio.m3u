@@ -9,9 +9,9 @@ https://live3.mediadesk.al/oranews.php
 #EXTINF:0,NEWS 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0,REPORT TV
-https://deb20stream.duckdns.org/signed/stream.m3u8?
+https://deb20stream.duckdns.org/signed/stream.m3u8
 #EXTINF:0, Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_7.m3u8
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_3.m3u8
 #EXTINF:0,Shqiptarja TV
 https://sh-stream.duckdns.org/hls/stream.m3u
 #EXTINF:0,Alpo TV
