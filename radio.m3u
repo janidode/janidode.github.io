@@ -20,8 +20,6 @@ https://vs.sednastream.com:1936/alportv/alportv/chunklist_w1420568805.m3u8
 http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1,A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1,TVA News
-https://live.tvanews.com/live/tvanews/play.m3u8
 #EXTINF:0,Plus FM
 https://stream2.plusfm.net/m3u/plusfm.m3u
 #EXTINF:0,Radio Galatsi
