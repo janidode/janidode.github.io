@@ -21,7 +21,7 @@ http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1,A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0,Plus FM
-https://stream2.plusfm.net/m3u/plusfm.m3u
+http://radio5.pro-fhi.net:9041/1
 #EXTINF:0,Plus FM Chill
 https://radio.plusfm.net/listen/chill/plusfm-chill.mp3
 #EXTINF:0,Radio Galatsi
