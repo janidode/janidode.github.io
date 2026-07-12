@@ -26,6 +26,10 @@ http://radio5.pro-fhi.net:9041/1
 https://radio.plusfm.net/listen/chill/plusfm-chill.mp3
 #EXTINF:0,Radio Galatsi
 https://s7.reliastream.com/proxy/mousikos/stream
+#EXTINF:0,MC2 NU Disco
+https://n24-eu.rcs.revma.com/hq40uaep81uvv.xspf?rj-ttl=5&rj-tok=AAABn1V3AWUA6Df-7LSKa8HN5Q
+#EXTINF:0,MC2
+https://n02-eu.rcs.revma.com/txdn8d324ucwv.xspf?rj-ttl=5&rj-tok=AAABn1V6cFcAJoGdNOMrPMD6Lw
 #EXTINF:0,MC2
 https://n42a-eu.rcs.revma.com/fxp289cp81uvv?rj-ttl=5&rj-tok=AAABkRmCwKcAbQTSxe9Xtr4uaQ
 #EXTINF:0,Klassik Beats Radio
