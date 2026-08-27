@@ -44,6 +44,10 @@ https://audiostreams.deluxemusic.tv/easy/mp3-192/
 https://audiostreams.deluxemusic.tv/lounge/aac-64
 #EXTINF:0,Top Albania Radio
 https://live.top-media.al/tar
+#EXTINF:0,ENERGY Radio Albania
+https://ice31.securenetsystems.net:80/AL09
+#EXTINF:0,Z103.5
+https://hel-streamb-relay1.streamb.live/SB00222/playlist.m3u8
 #EXTINF:0,Club FM 100.4 FM
 https://cp1.sednastream.com/proxy/clubfm?mp=/;stream.mp3
 #EXTINF:0,Club Bar Bit
@@ -52,8 +56,6 @@ https://cp1.sednastream.com/proxy/clubbit/stream
 https://cp1.sednastream.com/proxy/deephouse/stream
 #EXTINF:0,Paper Play Radio Albania
 https://business.playfm.al:8170/paperplay
-#EXTINF:0,ENERGY Radio Albania
-https://ice31.securenetsystems.net:80/AL09
 #EXTINF:0,Radio DJ
 https://radios.albaniadigitalradio.al/albaniaradiodj
 #EXTINF:0,Radio One
